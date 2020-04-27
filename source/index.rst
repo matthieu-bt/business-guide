@@ -14,6 +14,8 @@ This is the user manual for your Skribble Business account.
 
    setup/registration
    membership/admin
+   membership/adding
+   membership/removing
 
 
 Indices and tables
