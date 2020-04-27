@@ -10,3 +10,5 @@ bar-dazzle. Using these at the same time allows you to register
 a business account.
 
 Congratulations, you are the proud owner of a new business account!
+
+Add new words here!
