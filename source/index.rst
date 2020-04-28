@@ -17,6 +17,12 @@ This is the user manual for your Skribble Business account.
    quickstart/upgrade
    quickstart/toggling
    account/billing
+   users/adding
+   users/removing
+   users/addmin
+   users/revokmin
+   users/modifying
+   users/usage
    setup/registration
    membership/admin
    membership/adding
