@@ -12,6 +12,10 @@ This is the user manual for your Skribble Business account.
    :maxdepth: 2
    :caption: Contents:
 
+   quickstart/product
+   quickstart/setup
+   quickstart/upgrade
+   quickstart/toggling
    setup/registration
    membership/admin
    membership/adding
