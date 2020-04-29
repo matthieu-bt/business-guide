@@ -1,0 +1,14 @@
+a.icon.icon-home {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  justify-content: flex-end;
+}
+a.icon.icon-home:before {
+  content: normal;
+}
+.wy-side-nav-search>a.icon img.logo {
+  width: 27px;
+  margin: 0 4px 0 0;
+  padding: 0;
+}
