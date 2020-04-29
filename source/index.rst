@@ -10,19 +10,39 @@ This is the user manual for your Skribble Business account.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Quick Start:
 
    quickstart/product
    quickstart/setup
    quickstart/upgrade
    quickstart/toggling
+
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Managing your Account:
+
    account/billing
+
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Managing Users:
+
    users/adding
    users/removing
    users/addmin
    users/revokmin
    users/modifying
    users/usage
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: AES for Business:
+
    aes/AESproduct
    aes/AESsetup
    setup/registration

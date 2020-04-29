@@ -11,7 +11,7 @@ Skribble Business customers sign organised as a group. Business Account members 
   - Activity Overview
   - Invoice history
 
-  Additionally, Skribble Business allows for API integration. For more information, see our API documentation_.
+Additionally, Skribble Business allows for API integration. For more information, see our API documentation_.
 
   .. _documentation: https://doc.skribble.com
 
