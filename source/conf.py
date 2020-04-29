@@ -61,7 +61,7 @@ html_context = {
   'display_github': True,
   'github_user': 'blocksigner',
   'github_repo': 'business-guide',
-  'github_version': 'master/'
+  'github_version': 'master/source/'
 }
 
 html_theme_options = {
