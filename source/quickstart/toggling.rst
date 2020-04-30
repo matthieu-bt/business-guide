@@ -5,24 +5,22 @@ Skribble makes it easy to switch back-and-forth between signing documents and ma
 
 To manage your Skribble Business Account:
 
--Locate the **Skribble Business** icon in the lower left of the menu panel
+- From your Skribble account, click the **Skribble Business** icon in the lower left of the menu panel
 
-*image*
 
--Click the icon
+.. image:: toggle_biz.png
+    :class: with-shadow
 
-*image*
 
 Here you can access administrative functions for your Skribble Business Account.
 
 To get back to sending and signing documents:
 
--Locate the *Skribble* icon in the lower left of the menu panel
+- Click the **Skribble** icon in the lower left of the menu panel
 
-*image*
 
--Click the icon
+.. image:: toggle_skribble.png
+    :class: with-shadow
 
-*image*
 
 Use the toggle button to quickly shift between using Skribble and managing your Skribble Business users.
