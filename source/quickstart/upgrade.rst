@@ -9,7 +9,26 @@ To upgrade your account to Skribble Business:
 
 - Click the menu button in the top left
 
-*image*
+.. figure:: upgrade_menu.png
+    :alt: pointer to menu button
+    :class: with-shadow
+    :figclass: align-center
+
+
+.. figure:: main_screen_test.png
+    :alt: testing
+    :class: with-border
+    :figclass: align-center
+    :width: 1400
+
+.. image:: upgrade_button.png
+
+.. figure:: menu_test.png
+
+.. image:: ipad_test.png
+
+.. figure:: ipad_test2.png
+
 
 - Click **Upgrade Now** under "Skribble Business"
 
