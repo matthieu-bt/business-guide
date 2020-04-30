@@ -15,19 +15,27 @@ To upgrade your account to Skribble Business:
     :figclass: align-center
 
 
+Here is some test text. Should not be a caption.
+
 .. figure:: main_screen_test.png
     :alt: testing
-    :class: with-border
-    :figclass: align-center
-    :width: 1400
+    :class: with-shadow
+
 
 .. image:: upgrade_button.png
+    :class: with-shadow
+
 
 .. figure:: menu_test.png
+    :class: with-shadow
+
 
 .. image:: ipad_test.png
+    :class: with-shadow
+
 
 .. figure:: ipad_test2.png
+    :class: with-shadow
 
 
 - Click **Upgrade Now** under "Skribble Business"
