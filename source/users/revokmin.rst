@@ -2,18 +2,31 @@
 Revoking Admin Status
 =====================
 
-- From your Skribble Business Account, click the **Members** menu button.
+- Click **Members** if you aren't already there
 
-*image*
 
-On the **Members** page you will see a list of all members of your Skribble Business Account. The options menu for each member is three vertical dots [insert logo image?] located at the far-right of the row.
+.. image:: adding_members.png
+    :class: with-shadow
 
-*image*
 
-- Click on the options menu for a drop-down list of actions you can take for the selected user
+On the **Members** page you will see a list of all members of your Skribble Business Account.
 
-*image*
+- Click the options menu to see available actions for the selected user.
 
--Select **Revoke admin role**
 
-This user will still be on your Business Account but will no longer have access to administrative functions such as adding and removing members, monitoring the activity of other users, and granting or revoking the admin role of other users.
+.. image:: revoking_members.png
+    :class: with-shadow
+
+
+- Click **Revoke admin role**
+
+
+.. image:: revoking_options.png
+    :class: with-shadow
+
+
+This user will still be a member of your business account but will no longer have access to administrative functions.
+
+
+.. image:: revoking_removed.png
+    :class: with-shadow
