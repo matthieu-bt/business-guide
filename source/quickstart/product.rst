@@ -15,4 +15,5 @@ Additionally, Skribble Business allows for API integration. For more information
 
   .. _documentation: https://doc.skribble.com
 
-  For a guide on upgrading to a Skribble Business Account, see *BG_upgrade*.
+
+Click :ref:`here <upgrade-to-business>` for a guide on upgrading to a Skribble Business Account,

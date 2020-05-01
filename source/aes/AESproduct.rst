@@ -10,10 +10,12 @@ This provides several benefits:
   - Users personal phone number will not be shown in the certificate since their company email provides their identification.
   - Users can sign at the AES level without having a Swiss phone number.
 
-A guide for setting up AES for Business can be found *BG_AESsetup*.
+A guide for setting up AES for Business can be found :ref:`here <aes-setup>`.
 
 For more information about AES for Business, see our factsheet_.
 
 .. _factsheet: https://www.skribble.com/identification/aes-for-business/
 
-For more information about SES, AES, and QES standards for signatures, see this *page*.
+For more information about SES, AES, and QES standards for signatures, see this page_.
+
+.. _page: https://www.skribble.com/signaturestandards/

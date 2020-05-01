@@ -9,7 +9,8 @@ There are two ways to add users to your Skribble Business Account:
 
 The simplest way to add multiple users to your Business Account is by registering your company domain (@example.org). Once this is complete, any user who creates a new Skribble account using your company domain will automatically be a part of your Business Account.
 
-**Note:** Any users at your company who created a Skribble account *before* your domain was registered with your Business Account will not be added automatically to your account. You will need to add those users by e-mail invite, described in the next section.
+.. NOTE::
+   Any users at your company who created a Skribble account *before* your domain was registered with your Business Account will not be added automatically to your account. You will need to add those users by e-mail invite, described in the next section.
 
 To add users by domain:
 
