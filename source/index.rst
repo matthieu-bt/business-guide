@@ -24,7 +24,7 @@ This is the user manual for your Skribble Business account.
    :caption: Managing your Account:
 
    account/billing
-
+   account/usage
 
 
 .. toctree::
@@ -36,7 +36,6 @@ This is the user manual for your Skribble Business account.
    users/addmin
    users/revokmin
    users/modifying
-   users/usage
 
 
 .. toctree::
