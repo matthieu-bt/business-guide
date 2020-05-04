@@ -1,3 +1,5 @@
+.. _upgrade-to-business:
+
 ==================================
 Upgrading to Skribble for Business
 ==================================
