@@ -9,28 +9,50 @@ To upgrade your account to Skribble Business:
 
 - Click the menu button in the top left
 
-*image*
+
+.. image:: upgrade_menu.png
+    :alt: pointer to menu button
+    :class: with-shadow
+
 
 - Click **Upgrade Now** under "Skribble Business"
 
-*image*
+
+.. image:: upgrade_button.png
+    :class: with-shadow
 
 On the following page you will see a brief description of Skribble Business.
 
 - To upgrade, click **Upgrade now**
 
-*image*
 
-- Enter the exact, legal name of your organisation on the first page of registration
+.. image:: upgrade_launch.png
+    :class: with-shadow
 
-*image*
 
-- Enter the address of your organisation on the second page of registration.
+- Enter the exact, legal name of your organisation and click **Continue**
 
-*image*
+
+.. image:: upgrade_step1.png
+    :class: with-shadow
+
+
+- Enter the address of your organisation and click **Continue**
+
+
+.. image:: upgrade_step2.png
+    :class: with-shadow
+
 
 - Read the General Terms & Conditions on the third page of registration. If you agree, click the box next to "I agree with the General Terms and Conditions (GTC)", then click **Complete upgrade**
 
-*image*
+
+.. image:: upgrade_step3.png
+    :class: with-shadow
+
 
 Congratulations, your account has been upgraded to Skribble Business! Click **Start now** to begin managing your organisation.
+
+
+.. image:: upgrade_welcome.png
+    :class: with-shadow
