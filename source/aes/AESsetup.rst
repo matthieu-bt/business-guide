@@ -14,22 +14,30 @@ Registering your company for AES for Business
 
 - From your Business Account, click the menu button in the top left of the page
 
-*image*
+
+.. image:: aes_menu.png
+    :class: with-shadow
+
 
 - Click **Business profile**
 
-*image*
+
+.. image:: aes_profile.png
+    :class: with-shadow
+
 
 - Click **AES for business**
 
-*image*
+
+.. image:: aes_business.png
+    :class: with-shadow
+
 
 Here you will find basic information about the setup process.
 
 - Click **Start registration**
 
-You will be taken to a form to provide information necessary to register for AES for Business.
+.. image:: aes_register.png
+    :class: with-shadow
 
-- Once the form is complete, click **Submit**
-
-The registration for AES for Business has now been initialized.
+You will be taken to a form to provide information necessary to register for AES for Business. Once the form is submitted, the AES for Business registration has been initialized.
