@@ -7,7 +7,7 @@ Skribble makes it easy to switch back-and-forth between signing documents and ma
 
 To manage your Skribble Business Account:
 
-- From your Skribble account, click the **Skribble Business** icon in the lower left of the menu panel
+- From your Skribble dashboard, click the **Skribble Business** icon in the lower left of the menu panel
 
 
 .. image:: toggle_biz.png
