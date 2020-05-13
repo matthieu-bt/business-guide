@@ -9,7 +9,7 @@ To complete registration for AES for Business, you will need to provide the foll
   - Trade register number of your organisation
   - Name and e-mail address of an internal contact person
 
-Please note that registering a domain incurs a one-time setup fee. More information can be found *here*.
+Please note that registering a domain incurs a one-time setup fee. Pricing is shown during the registration process described below.
 
 Registering your company for AES for Business
 ---------------------------------------------

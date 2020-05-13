@@ -1,3 +1,5 @@
+.. _removing-users:
+
 =========================================
 Removing Users from your Business Account
 =========================================
@@ -25,8 +27,10 @@ On the **Members** page you will see a list of all members of your Skribble Busi
     :class: with-shadow
 
 
-The system will explain the consequences of removing the member. Click **Remove member** to confirm your decision.
+The system will explain the consequences of removing the member.
+
+- Click **Remove member** to confirm your decision.
 
 
 .. image:: removing_warning.png
-    :class: with-shadow 
+    :class: with-shadow

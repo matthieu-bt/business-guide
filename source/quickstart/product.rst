@@ -1,19 +1,20 @@
+.. _product-description:
+
 =================
 Skribble Business
 =================
 
 Skribble Business customers sign organised as a group. Business Account members enjoy the following benefits:
 
-  - Select price model per member
   - Joint billing on one monthly invoice
   - Centralized member administration
   - Member auto-registration
   - Activity Overview
   - Invoice history
 
-Additionally, Skribble Business allows for API integration. For more information, see our API documentation_.
+Additionally, Skribble Business allows for API integration. For more information, see our `API documentation`_.
 
-  .. _documentation: https://doc.skribble.com
+.. _API documentation: https://doc.skribble.com
 
 
-Click :ref:`here <upgrade-to-business>` for a guide on upgrading to a Skribble Business Account,
+See our guide on :ref:`Creating a Skribble Business Account <upgrade-to-business>`.
