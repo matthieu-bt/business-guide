@@ -1,3 +1,5 @@
+.. _monitor-account:
+
 =========================
 Monitoring Skribble Usage
 =========================

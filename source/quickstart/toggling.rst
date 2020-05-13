@@ -1,3 +1,5 @@
+.. _toggling:
+
 ===============================================
 Toggling between Skribble and Skribble Business
 ===============================================

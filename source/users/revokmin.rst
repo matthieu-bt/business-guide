@@ -1,3 +1,5 @@
+.. _revoke-admin:
+
 =====================
 Revoking Admin Status
 =====================

@@ -1,3 +1,5 @@
+.. _adding-admins:
+
 =====================
 Granting Admin Status
 =====================

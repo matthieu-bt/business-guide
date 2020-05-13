@@ -1,9 +1,11 @@
 .. _skribble-setup:
 
 =============================
-Setting up a Skribble account
+Setting up a Skribble Account
 =============================
 
-You must first have a Skribble account before you can upgrade to a Business Account. If you do not already have a Skribble account, please refer to our guide *here*.
+You must first have a Skribble account before you can create a Business Account. If you do not already have a Skribble account, please refer to our article: `Creating a Skribble Account`_.
 
-Once you have a Skribble account, you can :ref:`upgrade <upgrade-to-business>` it to a Skribble Business Account for free.
+.. _Creating a Skribble Account: https://help.skribble.com/creating-account/
+
+Once you have a Skribble account, see this article: :ref:`Creating a Skribble Business Account <upgrade-to-business>`.

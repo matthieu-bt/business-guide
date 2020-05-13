@@ -1,3 +1,5 @@
+.. _adding-users:
+
 ==============================================
 Adding Users to your Skribble Business Account
 ==============================================
@@ -53,7 +55,10 @@ Now you can see the status of the domain you've requested.
 Adding users by e-mail:
 -----------------------
 
-The other way to add users to your Skribble Business Account is by email invite:
+The other way to add users to your Skribble Business Account is by email:
+
+.. NOTE::
+   The user must already have a Skribble account before they can be added to your business account.
 
 - Click **Members** if you aren't already there
 

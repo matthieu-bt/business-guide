@@ -1,9 +1,11 @@
 .. _upgrade-to-business:
 
-==================================
-Upgrading to Skribble for Business
-==================================
-If you do not have a Skribble account, please refer to our *guide* for creating an account.
+====================================
+Creating a Skribble Business Account
+====================================
+If you do not have a Skribble account, please refer to our article: `Creating a Skribble Account`_:
+
+.. _Creating a Skribble Account: https://help.skribble.com/creating-account/
 
 To upgrade your account to Skribble Business:
 
@@ -46,12 +48,16 @@ On the following page you will see a brief description of Skribble Business.
     :class: with-shadow
 
 
-- Read the General Terms & Conditions on the third page of registration. If you agree, click the box next to "I agree with the General Terms and Conditions (GTC)", then click **Complete upgrade**
+- Choose your billing period and click **Continue**
 
 
 .. image:: upgrade_step3.png
     :class: with-shadow
 
+- Read the General Terms & Conditions on the third page of registration. If you agree, click the box next to "I agree with the General Terms and Conditions (GTC)", then click **Complete upgrade**
+
+.. image:: upgrade_step4.png
+    :class: with-shadow
 
 Congratulations, your account has been upgraded to Skribble Business! Click **Start now** to begin managing your organisation.
 
