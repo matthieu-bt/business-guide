@@ -23,7 +23,6 @@ This is the user manual for your Skribble Business account.
    :maxdepth: 2
    :caption: Managing your Account:
 
-   account/billing
    account/usage
 
 
