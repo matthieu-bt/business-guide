@@ -24,6 +24,7 @@ This is the user manual for your Skribble Business account.
    :caption: Managing your Account:
 
    account/usage
+   account/contact
 
 
 .. toctree::
