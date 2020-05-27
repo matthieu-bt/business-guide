@@ -11,9 +11,9 @@ Granting Admin Status
     :class: with-shadow
 
 
-On the **Members** page you will see a list of all members of your Skribble Business Account.
+On the **Members** page you will see a list of all members of your Skribble Business account.
 
-- Click the three vertical dots to the right of the user to see available actions.
+- Click the three dots to the right of the user to see available actions
 
 
 .. image:: removing_members.png
