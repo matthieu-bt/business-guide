@@ -16,9 +16,8 @@ help:
 
 netlify: html
 	rm -rf _output
-	mkdir -p _output/business
-	cp -a build/html/ _output/business/
-
+	mkdir -p _output/business-guide
+	cp -a build/html/. _output/business-guide/
 
 # Catch-all target: route all unknown targets to Sphinx using the new
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
