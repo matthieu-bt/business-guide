@@ -4,8 +4,8 @@
 Setting up a Skribble Account
 =============================
 
-You must first have a Skribble account before you can create a Business Account. If you do not already have a Skribble account, please refer to our article: `Creating a Skribble Account`_.
+You must first have a Skribble account before you can create a Business Account. If you do not already have a Skribble account, please create one at `skribble.com`_.
 
-.. _Creating a Skribble Account: https://help.skribble.com/creating-account/
+.. _skribble.com: https://my.skribble.com/signup
 
 Once you have a Skribble account, see this article: :ref:`Creating a Skribble Business Account <upgrade-to-business>`.
