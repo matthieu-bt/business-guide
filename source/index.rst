@@ -35,7 +35,6 @@ This is the user manual for your Skribble Business account.
    users/removing
    users/addmin
    users/revokmin
-   users/modifying
 
 
 .. toctree::
