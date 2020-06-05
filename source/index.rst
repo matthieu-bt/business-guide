@@ -35,7 +35,6 @@ This is the user manual for your Skribble Business account.
    users/removing
    users/addmin
    users/revokmin
-   users/modifying
 
 
 .. toctree::
@@ -46,9 +45,3 @@ This is the user manual for your Skribble Business account.
    aes/AESsetup
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`search`
