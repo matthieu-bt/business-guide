@@ -45,9 +45,3 @@ This is the user manual for your Skribble Business account.
    aes/AESsetup
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`search`
