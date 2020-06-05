@@ -3,9 +3,9 @@
 ====================================
 Creating a Skribble Business Account
 ====================================
-If you do not have a Skribble account, please refer to our article: `Creating a Skribble Account`_:
+If you do not have a Skribble account, please create one at `skribble.com`_.
 
-.. _Creating a Skribble Account: https://help.skribble.com/creating-account/
+.. _skribble.com: https://my.skribble.com/signup
 
 To upgrade your account to Skribble Business:
 
