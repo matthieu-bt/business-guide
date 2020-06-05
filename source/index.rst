@@ -16,6 +16,7 @@ This is the user manual for your Skribble Business account.
    quickstart/setup
    quickstart/upgrade
    quickstart/toggling
+   quickstart/signature
 
 
 
@@ -43,5 +44,3 @@ This is the user manual for your Skribble Business account.
 
    aes/AESproduct
    aes/AESsetup
-
-
