@@ -26,6 +26,7 @@ This is the user manual for your Skribble Business account.
 
    account/usage
    account/contact
+   account/branding
 
 
 .. toctree::
