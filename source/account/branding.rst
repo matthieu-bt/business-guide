@@ -30,11 +30,10 @@ Your company's logo will be displayed to the members of your account at the top 
 Your company's logo will be displayed in the document preview mode.
 
 
-.. image:: brand_doc_preview.png 
+.. image:: brand_doc_preview.png
     :class: with-shadow
     
     
-
 - **E-mail footer**
 
 Your company's logo will be displayed to both internal and external parties in the footer of transaction e-mails (e.g. signing invitation).
