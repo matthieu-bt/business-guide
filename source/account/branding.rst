@@ -17,7 +17,7 @@ Below you will find some company branding examples.
 
 - **Account header**
 
-Your company's logo will be displayed to the members of your account at the top left in the header of the account.
+Your company logo will be displayed to the members of your account at the top left in the header of the account.
 
 
 .. image:: brand_account_preview.png
@@ -26,7 +26,7 @@ Your company's logo will be displayed to the members of your account at the top 
 
 - **Document preview**
 
-Your company's logo will be displayed in the document preview mode.
+Your company logo will be displayed in the document preview mode.
 
 
 .. image:: brand_doc_preview.png
@@ -35,7 +35,7 @@ Your company's logo will be displayed in the document preview mode.
     
 - **E-mail footer**
 
-Your company's logo will be displayed to both internal and external parties in the footer of transaction e-mails (e.g. signing invitation).
+Your company logo will be displayed to both internal and external parties in the footer of transaction e-mails (e.g. signing invitation).
 
 
 .. image:: brand_mail_preview.png
