@@ -67,5 +67,5 @@ To customise your visual signature:
 
 
 .. NOTE::
-   If any of these customization options are not visible in your account, your current price plan might not support it. Please contact our support team for assistance at info@skribble.com.
+   If any of these customisation options are not visible in your account, your current price plan might not support it. Please contact our support team for assistance: support@skribble.com
    
