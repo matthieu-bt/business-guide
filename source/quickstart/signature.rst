@@ -47,7 +47,7 @@ To customise your personal visual signature, you will have to switch to My Skrib
 
 From here, you can customise the following details:
   - **Name**: Your first and last name
-  - **Optional line** and **City**: Optional fields for any additional information (e.g. organisation, function or name).
+  - **Optional line** and **City**: Optional fields for any additional information (e.g. organisation, function or name)
   - **Date**: Date when the document was signed
   - **QR code**: Contains additional information about the e-signature standards
   - **Clam and label**: "Signed with Skribble.com" claim along with the e-signature standard used
@@ -59,12 +59,13 @@ From here, you can customise the following details:
     
 To customise your visual signature:
 
-- Select or deselect information you want to include on your visual signature and click **Save** to confirm 
+- Update the information you want to be displayed on your visual signature and click **Save** to confirm
 
 
 .. image:: 6-save_customisation.png
     :class: with-shadow
 
 
-.. Note::
-If any of these customization options are not visible in your account, your current price plan might not support it. Please contact our support team for assistance: info@skribble.com. 
+.. NOTE::
+   If any of these customization options are not visible in your account, your current price plan might not support it. Please contact our support team for assistance at info@skribble.com.
+   
