@@ -50,7 +50,7 @@ From here, you can customise the following details:
   - **Optional line** and **City**: Optional fields for any additional information (e.g. organisation, function or name)
   - **Date**: Date when the document was signed
   - **QR code**: Contains additional information about the e-signature standards
-  - **Clam and label**: "Signed with Skribble.com" claim along with the e-signature standard used
+  - **Claim and label**: "Signed with Skribble.com" claim along with the e-signature standard used
   
   
 .. image:: 5-customise_visual_signature.png
