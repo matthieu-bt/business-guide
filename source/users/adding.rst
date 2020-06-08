@@ -68,7 +68,7 @@ The other way to add users to your Skribble Business Account is by email:
 
 
 
--Click **Add Member**
+- Click **Add Member**
 
 
 .. image:: adding_email.png
