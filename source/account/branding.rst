@@ -9,7 +9,7 @@ Adding Company Branding
    
    .. _Price plans: https://www.skribble.com/pricing/
 
-With the custom branding feature, you can add a company logo to your business account. When you invite internal or external parties to sign a document, your company logo will be displayed on the document and in the e-mail footer. This way, you can convey trust and reliability, and reassure all stakeholders that the signing invitation originates from your organisation. 
+With the custom branding feature, you can add a company logo to your business account. When you invite internal or external parties to sign a document, your company logo will be displayed on the document and in the e-mail footer. This way, you can convey trust and reliability, and reassure all stakeholders that the signing invitation originates from your organisation.
 
 .. NOTE::
    To add your company logo to your business account, we kindly ask you to reach out to our team at support@skribble.com. We will be happy to assist you.
@@ -18,7 +18,7 @@ Below you will find some company branding examples.
 
 - **Account header**
 
-Your company's logo will be displayed to the members of your account at the top left in the header of the account. 
+Your company's logo will be displayed to the members of your account at the top left in the header of the account.
 
 
 .. image:: brand_account_preview.png
