@@ -20,7 +20,7 @@ From your Skribble Business dashboard:
 
 From here, you can hide/show the  following details:
 
-- **Date**: The date of signing 
+- **Date**: The date of signing
 - **QR code**: Leads to additional information about the e-signature standards
 - **Claim and label**: "Signed with Skribble.com" claim along with the e-signature standard used
 
