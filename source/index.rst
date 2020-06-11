@@ -3,10 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Skribble Business Account's documentation!
+Welcome to the Skribble Business Account Admin Guide
 =====================================================
 
-This is the user manual for your Skribble Business account.
+This guide is intended to help Skribble business account administrators to manage and monitor company accounts.
+
+For more information on how to use the Skribble signing platform, visit our `Help Center`_.
+
+   .. _Help Center: https://help.skribble.com/english
 
 .. toctree::
    :maxdepth: 2
