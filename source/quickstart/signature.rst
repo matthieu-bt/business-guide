@@ -18,7 +18,7 @@ From your Skribble Business dashboard:
 
 - Click **Visual signature**
 
-From here, you can hide/show the  following details:
+From here, you can hide/show the following details:
 
 - **Date**: The date of signing
 - **QR code**: Leads to additional information about the e-signature standards
