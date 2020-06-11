@@ -24,7 +24,7 @@ From here, you can customise the following details:
   - **Claim and label**: "Signed with Skribble.com" claim along with the e-signature standard used
   
 
-.. image:: 3-click_visual_signature
+.. image:: 2-custom_visual-signature.png
     :class: with-shadow
 
 
