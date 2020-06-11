@@ -5,40 +5,38 @@ Adding Company Branding
 ==============================================
 
 .. NOTE::
-   This article describes a feature that is only available to Skribble Business and Enterprise customers. For more information, see `Price plans`_.
-   
-   .. _Price plans: https://www.skribble.com/pricing/
+   This article describes a feature that is only available to Skribble Enterprise customers.
 
-With the custom branding feature, you can customise your Business or Enterprise account to improve brand recognition. When you invite internal or external parties to sign a document, your company logo will be displayed on the document and in the e-mail footer. This way, you can convey trust and reliability, and reassure all stakeholders that the signing invitation originates from your organisation.
+With the custom branding feature, Skribble Enterprise customers can customise their account with company branding (logo and address) to enhance brand recognition. Company branding will appear in the header of your Business account on the Skribble e-signing platform, in e-mail notifications and the document viewer. This way, you can convey trust and reliability with internal and external stakeholders alike, and reassure them that signing invitations come from your organisation.
 
-**To add your company logo to your business account, we kindly ask you to reach out to our team at support@skribble.com. We will be happy to assist you.**
+To request custom branding for your Business account, we kindly ask you to reach out to our team at support@skribble.com. We will be happy to assist you.
 
-Below you will find some company branding examples.
+**Where will company branding appear?**
 
 - **Account header**
 
-Your company logo will be displayed to the members of your account at the top left in the header of the account.
+On the Skribble e-signing platform, your company logo will replace the logo of Skribble and will be displayed to the members of your account in the account header.
 
 
 .. image:: brand_account_preview.png
     :class: with-shadow
     
-
-- **Document preview**
-
-Your company logo will be displayed in the document preview mode.
-
-
-.. image:: brand_doc_preview.png
-    :class: with-shadow
     
-    
-- **E-mail footer**
+- **E-mail notifications**
 
-Your company logo will be displayed to both internal and external parties in the footer of transaction e-mails (e.g. signing invitation).
+When members of your account invite someone to sign a document with Skribble, the invitee will receive a signing invitation by e-mail. Your company logo will appear in the footer of the e-mail invitation along with the company address.
 
 
 .. image:: brand_mail_preview.png
+    :class: with-shadow
+    
+
+- **Document viewer**
+
+Your company logo will appear in the document viewer when a person invited to sign opens a document.
+
+
+.. image:: brand_doc_preview
     :class: with-shadow
     
     
