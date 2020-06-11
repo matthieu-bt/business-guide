@@ -18,14 +18,13 @@ From your Skribble Business dashboard:
 
 - Click **Visual signature**
 
-From here, you can hide/show the following details:
+From here, you can customise the following details:
+  - **Date**: The date of signing
+  - **QR code**: Leads to additional information about the e-signature standards
+  - **Claim and label**: "Signed with Skribble.com" claim along with the e-signature standard used
+  
 
-- **Date**: The date of signing
-- **QR code**: Leads to additional information about the e-signature standards
-- **Claim and label**: "Signed with Skribble.com" claim along with the e-signature standard used
-
-
-.. image:: visual_sign_settings.png
+.. image:: 3-click_visual_signature
     :class: with-shadow
 
 
