@@ -4,5 +4,5 @@
 
 [[redirects]]
   from = "/"
-  to = "/business-guide"
+  to = "/business-admin"
   status = 302
