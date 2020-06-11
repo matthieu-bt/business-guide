@@ -8,7 +8,7 @@ Welcome to the Skribble Business Account Admin Guide
 
 This guide is intended to help Skribble business account administrators to manage and monitor company accounts.
 
-For more information on how to use Skribble signing platform, visit our `Help Center`_.
+For more information on how to use the Skribble signing platform, visit our `Help Center`_.
 
    .. _Help Center: https://help.skribble.com/english
 
