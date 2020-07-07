@@ -1,8 +1,8 @@
 .. _removing-members:
 
-=========================================
+===========================================
 Removing Members from your Business Account
-=========================================
+===========================================
 
 - Click **Members** if you aren't already there
 
