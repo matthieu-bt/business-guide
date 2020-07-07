@@ -11,7 +11,7 @@ Granting Admin Role
     :class: with-shadow
 
 
-On the **Members** page you will see a list of all members of your Skribble Business account.
+On the **Members** page you will see a list of all members of your Skribble Business Account.
 
 - Click the three dots to the right of the member to see available actions
 
@@ -27,7 +27,7 @@ On the **Members** page you will see a list of all members of your Skribble Busi
     :class: with-shadow
 
 
-This member will now have access to administrative functions such as adding and removing members, monitoring the activity of other members, and granting or revoking the admin role of other members.
+This member will now have access to administrative functions such as adding and removing members, monitoring the activity of other members, and granting or revoking the admin role.
 
 
 .. image:: granting_added.png
