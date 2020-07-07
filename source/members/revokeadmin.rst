@@ -27,7 +27,7 @@ On the **Members** page you will see a list of all members of your Skribble Busi
     :class: with-shadow
 
 
-This user will still be a member of your business account but will no longer have access to administrative functions.
+This user will still be a member of your Business account but will no longer have access to administrative functions.
 
 
 .. image:: revoking_removed.png
