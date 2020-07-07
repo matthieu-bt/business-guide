@@ -1,7 +1,7 @@
-.. _removing-users:
+.. _removing-members:
 
 =========================================
-Removing Users from your Business Account
+Removing Members from your Business Account
 =========================================
 
 - Click **Members** if you aren't already there
@@ -13,7 +13,7 @@ Removing Users from your Business Account
 
 On the **Members** page you will see a list of all members of your Skribble Business Account.
 
-- Click the three vertical dots to the right of the user to see available actions.
+- Click the three vertical dots to the right of the member to see available actions.
 
 
 .. image:: removing_members.png
