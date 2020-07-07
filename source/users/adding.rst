@@ -1,20 +1,20 @@
-.. _adding-users:
+.. _adding-members:
 
 ==============================================
-Adding Users to your Skribble Business Account
+Adding Members to your Skribble Business Account
 ==============================================
 
-There are two ways to add users to your Skribble Business Account:
+There are two ways to add members to your Skribble Business Account:
 
-- By Domain (whitelisting)
+- By domain (whitelisting)
 - By e-mail
 
-The simplest way to add multiple users to your Business Account is by registering your company domain (@example.org). Once this is complete, any user who creates a new Skribble account using your company domain will automatically be a part of your Business Account.
+The simplest way to add multiple members to your Business Account is by registering your company domain (@example.org). Once this is complete, anyone who creates a new Skribble account using your company domain will automatically become a member of your Business Account.
 
 .. NOTE::
-   Any users at your company who created a Skribble account *before* your domain was registered with your Business Account will not be added automatically to your account. You will need to add those users by e-mail invite, described in the next section.
+  Employees of your company who created a Skribble account *before* your domain was registered with your Business Account will not be added automatically to your account. You will need to add them by e-mail invite, described in the next section.
 
-To add users by domain:
+To add members by domain:
 
 - Click **Members** if you aren't already there
 
@@ -52,13 +52,13 @@ Now you can see the status of the domain you've requested.
 
 
 
-Adding users by e-mail:
+Adding members by e-mail:
 -----------------------
 
-The other way to add users to your Skribble Business Account is by email:
+The other way to add members to your Skribble Business Account is by e-mail:
 
 .. NOTE::
-   The user must already have a Skribble account before they can be added to your business account.
+   The person must already have a Skribble account before they can be added to your Business Account.
 
 - Click **Members** if you aren't already there
 
@@ -75,11 +75,11 @@ The other way to add users to your Skribble Business Account is by email:
     :class: with-shadow
 
 
-- Type the email address of the user you wish to add to your Skribble Business account. You can add multiple emails by separating them with a comma. Once you are finished adding emails to the text box, click **Add**.
+- Type the e-mail address of the person you wish to add to your Skribble Business Account. You can add multiple e-mails by separating them with a comma. Once you are finished adding e-mails to the text box, click **Add**.
 
 
 .. image:: adding_address.png
     :class: with-shadow
 
 
-If the recipient has a Skribble account, they will now be added to your Skribble Business account.
+If the recipient has a Skribble account, they will now be added to your Skribble Business Account.
