@@ -1,7 +1,7 @@
 .. _revoke-admin:
 
 =====================
-Revoking Admin Status
+Revoking Admin Role
 =====================
 
 - Click **Members** if you aren't already there
@@ -13,7 +13,7 @@ Revoking Admin Status
 
 On the **Members** page you will see a list of all members of your Skribble Business Account.
 
-- Click the three vertical dots to the right of the user to see available actions.
+- Click the three vertical dots to the right of the member to see available actions
 
 
 .. image:: revoking_members.png
