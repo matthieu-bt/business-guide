@@ -39,8 +39,8 @@ For more information on how to use the Skribble e-signing platform, visit our `H
 
    members/adding
    members/removing
-   members/admin
-   members/revoking
+   members/assignadmin
+   members/revokeadmin
 
 
 .. toctree::
