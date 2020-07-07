@@ -53,7 +53,7 @@ Now you can see the status of the domain you've requested.
 
 
 Adding members by e-mail:
------------------------
+-------------------------
 
 The other way to add members to your Skribble Business Account is by e-mail:
 
