@@ -1,26 +1,22 @@
 .. _quickstart-signature:
 
-==============================================
+=============================
 Customising Visual Signatures
-==============================================
+=============================
 
-.. NOTE::
-   This article describes a feature that is only available to Skribble Business and Enterprise customers. For more information, see `Price plans`_.
 
-   .. _Price plans: https://www.skribble.com/pricing/
+With Skribble, you can keep the look and feel of your handwritten signature when signing electronically. The visual signature customiser allows you to create your personal visual signature and customise its appearance to your needs. When signing documents with Skribble, you can place your visual signature on a document in addition to your electronic signature. 
 
-With Skribble, you can keep the look and feel of your handwritten signature when signing electronically. The visual signature customiser allows you to create your personal visual signature and customise its appearance. When you sign a document with Skribble, your visual signature will be displayed on the signed document.
+To customise your visual signature, you will have to switch to My Skribble first. From your Skribble Business dashboard:
 
-To customise your personal visual signature, you will have to switch to My Skribble first:
-
-- From your Skribble Business dashboard, click the **My Skribble** icon in the lower left of the menu
+- Click the **My Skribble** icon in the lower-left 
 
 
 .. image:: 1-biz_dashboard.png
     :class: with-shadow
 
 
-- Click **Profile** in the bottom left
+- Click **Profile** in the lower-left
 
 
 .. image:: 2-my_skribble_profile.png
@@ -34,31 +30,21 @@ To customise your personal visual signature, you will have to switch to My Skrib
     :class: with-shadow
 
 
-- Click **Upload image** and select your handwritten signature as a PNG, JPG or GIF
-
-**Tip**: For optimal resolution, we recommend that you write your signature on a sheet of A4 paper in the ratio of 1:4 and scan it with your scanner.
-
-
-.. image:: 4-upload_visual_signature.png
-    :class: with-shadow
-
-
-**Tip**: If you log in to your Skribble account via smartphone, you can directly take a picture of your signature via smartphone camera.
-
 From here, you can customise the following details:
   - **Name**: Your first and last name
   - **Optional line** and **City**: Optional fields for any additional information (e.g. organisation, function or name)
   - **Date**: Date when the document was signed
-  - **QR code**: Contains additional information about the e-signature standards
-  - **Claim and label**: "Signed with Skribble.com" claim along with the e-signature standard used
+  - **QR code**: Leads to the `website`_ briefly explaining the e-signature standards *(available to Skribble Enterprise and Business customers only)*
+  - **Claim and label**: "Signed with Skribble.com" claim along with an icon of the e-signature standard used *(available to Skribble Enterprise and Business customers only)*
   
   
+   .. _website: https://www.skribble.com/signaturestandards/
+   
+   
 .. image:: 5-customise_visual_signature.png
     :class: with-shadow
     
     
-To customise your visual signature:
-
 - Update the information you want to be displayed on your visual signature and click **Save** to confirm
 
 
@@ -67,5 +53,9 @@ To customise your visual signature:
 
 
 .. NOTE::
-   If any of these customisation options are not visible in your account, your current price plan might not support it. Please contact our support team for assistance: support@skribble.com
+   If any of these customisation options are not visible in your account, your current price plan might not support it. Please contact our support team for assistance: support@skribble.com.
    
+   
+   For more information on using visual signature when signing documents electronically with Skribble, visit our `Help Center`_.
+  
+   .. _Help Center: https://help.skribble.com/-en-creating-visual-signature
