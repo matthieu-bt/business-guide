@@ -34,8 +34,11 @@ From here, you can customise the following details:
   - **Name**: Your first and last name
   - **Optional line** and **City**: Optional fields for any additional information (e.g. organisation, function or name)
   - **Date**: Date when the document was signed
-  - **QR code**: Leads to the `website`_ briefly explaining the e-signature standards *(available to Skribble Enterprise and Business customers only)*
-  - **Claim and label**: "Signed with Skribble.com" claim along with an icon of the e-signature standard used *(available to Skribble Enterprise and Business customers only)*
+  
+  *Available to Skribble Enterprise and Business customers only:*
+  
+  - **QR code**: Leads to the `website`_ briefly explaining the e-signature standards
+  - **Claim and label**: "Signed with Skribble.com" claim along with an icon of the e-signature standard used
   
   
    .. _website: https://www.skribble.com/signaturestandards/
@@ -52,10 +55,12 @@ From here, you can customise the following details:
     :class: with-shadow
 
 
+For more information on using visual signature when signing documents electronically with Skribble, visit our `Help Center`_.
+  
+   .. _Help Center: https://help.skribble.com/-en-creating-visual-signature
+   
+
 .. NOTE::
    If any of these customisation options are not visible in your account, your current price plan might not support it. Please contact our support team for assistance: support@skribble.com.
    
    
-   For more information on using visual signature when signing documents electronically with Skribble, visit our `Help Center`_.
-  
-   .. _Help Center: https://help.skribble.com/-en-creating-visual-signature
