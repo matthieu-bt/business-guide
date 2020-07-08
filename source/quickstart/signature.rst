@@ -5,7 +5,8 @@ Customising Visual Signatures
 =============================
 
 
-Skribble users can keep the look and feel of their handwritten signature when signing electronically. The visual signature customiser allows customising visual signature to your needs. When signing documents with Skribble, the visual signature can be placed on a document in addition to the electronic signature. 
+Skribble Enterprise and Business customers can customise the appearance of their visual signature to suit individual needs. When signing documents with Skribble, the personal visual signature can be added to a document in addition to the electronic signature. 
+
 
 To customise your visual signature, you will have to switch to My Skribble first.
 
@@ -25,7 +26,7 @@ From your Skribble Business dashboard:
     :class: with-shadow
 
 
-- Click **Visual signature**
+- Go to **Visual signature**
 
 
 .. image:: 3-click_visual_signature.png
@@ -34,12 +35,12 @@ From your Skribble Business dashboard:
 
 From here, you can customise the following details:
   - **Name**: Your first and last name
-  - **Optional line** and **City**: Optional fields for any additional information (e.g. organisation, function or name)
-  - **Date**: Date when the document was signed
+  - **Optional line** and **City**: Optional lines for any additional information (e.g. organisation, function or name)
+  - **Date**: The date when the document was signed
   
   *Available to Skribble Enterprise and Business customers only:*
   
-  - **QR code**: Leads to the `website`_ briefly explaining the e-signature standards
+  - **QR code**: Leads to the `website`_ that briefly explains the e-signature standards
   - **Claim and label**: "Signed with Skribble.com" claim along with an icon of the e-signature standard used
   
   
