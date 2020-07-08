@@ -5,9 +5,11 @@ Customising Visual Signatures
 =============================
 
 
-With Skribble, you can keep the look and feel of your handwritten signature when signing electronically. The visual signature customiser allows you to create your personal visual signature and customise its appearance to your needs. When signing documents with Skribble, you can place your visual signature on a document in addition to your electronic signature. 
+Skribble users can keep the look and feel of their handwritten signature when signing electronically. The visual signature customiser allows customising visual signature to your needs. When signing documents with Skribble, the visual signature can be placed on a document in addition to the electronic signature. 
 
-To customise your visual signature, you will have to switch to My Skribble first. From your Skribble Business dashboard:
+To customise your visual signature, you will have to switch to My Skribble first.
+
+From your Skribble Business dashboard:
 
 - Click the **My Skribble** icon in the lower-left 
 
