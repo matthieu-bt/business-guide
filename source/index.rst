@@ -35,12 +35,12 @@ For more information on how to use the Skribble e-signing platform, visit our `H
 
 .. toctree::
    :maxdepth: 2
-   :caption: Managing Users:
+   :caption: Managing Members:
 
-   users/adding
-   users/removing
-   users/addmin
-   users/revokmin
+   members/adding
+   members/removing
+   members/assignadmin
+   members/revokeadmin
 
 
 .. toctree::

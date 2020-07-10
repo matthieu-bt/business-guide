@@ -24,7 +24,7 @@ By default, this page will show all activity during the current calendar month.
     :class: with-shadow
 
 
-- To see all activity since Business Account creation, click the "X" next to the month/year
+- To see all activity since Business account creation, click the "X" next to the month/year
 
 
 .. image:: usage_x.png
