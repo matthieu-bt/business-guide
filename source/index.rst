@@ -53,7 +53,7 @@ For more information on how to use the Skribble e-signing platform, visit our `H
 
 .. toctree::
    :maxdepth: 2
-   :caption: Managing API Keys
+   :caption: Creating and Managing API Keys
 
    api/creating
-   api/managing
+   api/resetting
