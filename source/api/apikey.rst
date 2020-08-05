@@ -50,7 +50,7 @@ In the next step, you will be able to view the API key (this is your password) a
 Resetting or deleting an API key
 --------------------------------
 
-As a Business Account administrator, you can reset or delete the existing API keys.
+As an administrator of a Skribble Business account, you can reset or delete the existing API keys.
 
 - Navigate to **API keys** if you aren't already there 
 
