@@ -49,3 +49,11 @@ For more information on how to use the Skribble e-signing platform, visit our `H
 
    aes/AESproduct
    aes/AESsetup
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Managing API Keys:
+
+   api/create
+   api/resetdelete
