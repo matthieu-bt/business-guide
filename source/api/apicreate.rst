@@ -8,8 +8,7 @@ As a company, you can integrate the e-signing platform of Skribble into your exi
 
 As an administrator of a Skribble Business account, you can generate and manage API keys for your company.  
 
-.. NOTE::
-  For more information about using API keys, please visit our `API documentation`_.
+For more information on using API keys, please visit our `API documentation`_.
 
   .. _API documentation: https://developers.skribble.com/api/
   
