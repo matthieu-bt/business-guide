@@ -56,4 +56,3 @@ For more information on how to use the Skribble e-signing platform, visit our `H
    :caption: Managing API Keys:
 
    api/create
-   api/resetdelete
