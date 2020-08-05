@@ -24,14 +24,14 @@ Creating an API key
     :class: with-shadow
 
 
-You'll be able to choose between two types of keys::
+You'll be able to choose between two types of keys:
   - **Demo API keys** are for testing and development purposes. Signatures requested by such keys don't have any legal weight and are free of charge. The signing process works without 2FA.
   - **Production API keys** are used for live systems. Signatures requested by such keys will be invoiced. All costs of signature requests created with your API key will be charged to your business. 
 
 - Select the key you want to create and click **Create API key**
 
 
-.. image:: API_keys_step1_create.png
+.. image:: Create_API_key_step2.png
     :class: with-shadow
 
 
@@ -50,7 +50,7 @@ In the next step, you will be able to view the API key (this is your password) a
 Resetting or deleting an API key
 --------------------------------
 
-As a Business Account administrator you can reset or delete the existing API keys.
+As a Business Account administrator, you can reset or delete the existing API keys.
 
 - Navigate to **API keys** if you aren't already there 
 
@@ -59,9 +59,9 @@ As a Business Account administrator you can reset or delete the existing API key
     :class: with-shadow
 
 
-Clicking the three vertical dots next to the API key, will open a window with two options:
+Clicking the three vertical dots next to the API key will open a window with two options:
   - **Resetting the API key** is irreversible and will disable all the existing integrations with this key until the new API key is in place. Clicking **Reset API key** will generate a new key.
-  - **Deleting the API key** will delete all existing integrations irreversibly.
+  - **Deleting the API key** will remove all existing integrations irreversibly.
 
 
 .. image:: reset_or_delete_api_key.png
