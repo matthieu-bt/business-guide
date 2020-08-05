@@ -1,4 +1,4 @@
-.. _api:
+.. _api-create:
 
 ==============================
 Creating and Managing API Keys
