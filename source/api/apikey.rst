@@ -20,7 +20,7 @@ Creating an API key
 - Navigate to **API keys** if you aren't already there and click **Create API key** at the top right
 
 
-.. image:: adding_members.png
+.. image:: API_keys_step1_create.png
     :class: with-shadow
 
 
@@ -31,7 +31,7 @@ You'll be able to choose between two types of keys::
 - Select the key you want to create and click **Create API key**
 
 
-.. image:: adding_home.png
+.. image:: API_keys_step1_create.png
     :class: with-shadow
 
 
@@ -42,7 +42,7 @@ In the next step, you will be able to view the API key (this is your password) a
   Please note that the API key is your password and should be stored in a safe place. Skribble won't be able to recover it after you've closed the window.
 
 
-.. image:: adding_domains.png
+.. image:: create_api_keys_step3_success_close.png
     :class: with-shadow
 
 
@@ -55,7 +55,7 @@ As a Business Account administrator you can reset or delete the existing API key
 - Navigate to **API keys** if you aren't already there 
 
 
-.. image:: adding_members.png
+.. image:: manage_api_key_step1.png
     :class: with-shadow
 
 
@@ -64,7 +64,7 @@ Clicking the three vertical dots next to the API key, will open a window with tw
   - **Deleting the API key** will delete all existing integrations irreversibly.
 
 
-.. image:: adding_email.png
+.. image:: reset_or_delete_api_key.png
     :class: with-shadow
 
 
