@@ -72,7 +72,7 @@ Do you plan to add new employees to your Skribble Business regularly? In this ca
 Video identification allows employees in your company to do the identity check online via their computer or smartphone. It takes less than 5 minutes and can be done anytime, anywhere. `Learn more about video identification here`_ (in German only).
 
  .. _Learn more about video identification here: https://www.videoident.me/ch/de/
-_
+
 After successful identity verification, your team members are ready to sign electronically with QES.
 
 Not sure what identification option is suitable for your company or need assistance with adding your team members to Skribble? Get in touch with our support at `support@skribble.com`_. We'll be pleased to assist you in finding the right solution.
