@@ -44,6 +44,7 @@ To sign documents electronically, employees in your company will have to get the
    Anyone who signs up with Skribble using a Swiss mobile phone number can sign immediately with AES.
 
   - **Company e-mail address**
+  
   Register your company domain with Skribble and enable your entire company to sign with AES. Anyone who signs up with Skribble using an e-mail domain of your company will be    able to sign immediately with AES.
    
    
