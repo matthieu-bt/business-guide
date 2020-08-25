@@ -35,18 +35,14 @@ To sign documents electronically, employees in your company will have to get the
    
    .. _e-signature standards page: https://www.skribble.com/signaturestandards/
    
-   
    - **Advanced electronic signature (AES)**
    
    To sign with AES, employees in your company will require a Swiss mobile number or a company e-mail address.
-   
-    - **Swiss mobile number**
-   
+   - **Swiss mobile number**
    Anyone who signs up with Skribble using a Swiss mobile phone number can sign immediately with AES.
 
   - **Company e-mail address**
-   
-   Register your company domain with Skribble and enable your entire company to sign with AES. Anyone who signs up with Skribble using an e-mail domain of your company will be    able to sign immediately with AES.
+  Register your company domain with Skribble and enable your entire company to sign with AES. Anyone who signs up with Skribble using an e-mail domain of your company will be    able to sign immediately with AES.
    
    
    - **Qualified electronic signature (QES)**
@@ -57,19 +53,19 @@ To sign documents electronically, employees in your company will have to get the
    
    .._video call: https://www.videoident.me/ch/de/ 
    
-- **Face-to-Face identification**
+   
+- **Face-to-Face**
    
 Two options are available:
-
 - Anyone can make an appointment at one of the Skribble offices to have their identity verified by our staff.
-
 - To verify a stable team, our staff can come to your office and verify one person who can then verify everyone else in your team.
 
 Do you plan to add new employees to your Skribble Business regularly? In this case, we recommend a one-time training for one employee in your company. After the training, this employee will be able to verify the identity of other employees, customers, or even suppliers independently using the ID app of Swisscom. `Learn more here`_.
 
 .._Learn more here.: https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/English/Skribble_Overview_Identification_EN.pdf
 
-- **Online via video call**
+
+- **Via video call**
 
 Video identification allows employees in your company to do the identity check online via their computer or smartphone. It takes less than 5 minutes and can be done anytime, anywhere. `Learn more about video identification here`_ (in German only). 
 
