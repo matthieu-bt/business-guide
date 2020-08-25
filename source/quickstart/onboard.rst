@@ -28,7 +28,7 @@ You can add your team members by:
 To sign documents electronically, employees in your company will have to get their identities verified. Skribble offers various identification options depending on your individual use case and the e-signature standard (or legal weight) required.
 
 .. NOTE::
-   You might find it helpful to consult `e-signature standards page`_ for more information.
+   You might find it helpful to consult our `e-signature standards page`_ for more information.
    
    .. _e-signature standards page: https://www.skribble.com/signaturestandards
    
