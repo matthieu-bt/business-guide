@@ -4,7 +4,7 @@
 Getting started with Skribble Business
 ======================================
 
-To enable your team members to sign with Skribble once you’ve set up **Skribble Business** for your company, you’ll have to:
+To enable your team members to sign documents electronically after you’ve set up **Skribble Business** for your company, you’ll have to:
 
   - add your team members and
   - have their identities verified
