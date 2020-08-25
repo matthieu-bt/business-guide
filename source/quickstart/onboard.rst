@@ -18,10 +18,10 @@ You can add your team members by:
 - Adding your company domain (`Click here for guidance`_) or by
 
 .. _Click here for guidance: https://docs.skribble.com/business-admin/members/adding.html#adding-members-by-domain
+
 - Adding each team member individually by e-mail (`Learn more in this guide`_)
 
 .. _Learn more in this guide: https://docs.skribble.com/business-admin/members/adding.html#adding-members-by-e-mail
-
 
 **Having team members’ identities verified**
 
