@@ -20,7 +20,7 @@ You can add your team members by:
 
 .. _Click here for guidance: https://docs.skribble.com/business-admin/members/adding.html#adding-members-by-domain 
 
-- Adding each team member individually by e-mail `Learn more in this guide`_ 
+- Adding each team member individually by e-mail (`Learn more in this guide`_)
 
 .. _Learn more in this guide: https://docs.skribble.com/business-admin/members/adding.html#adding-members-by-e-mail
 
@@ -33,7 +33,7 @@ To sign documents electronically, employees in your company will have to get the
 .. NOTE::
    You might find it helpful to consult `e-signature standards page`_ for more information.
    
-   .. _e-signature standards page: https://www.skribble.com/signaturestandards/
+   .. _e-signature standards page: https://www.skribble.com/signaturestandards
    
    - **Advanced electronic signature (AES)**
    
@@ -51,9 +51,9 @@ To sign documents electronically, employees in your company will have to get the
    
    To enable your team members to sign documents electronically with QES, you can choose between `face-to-face identification`_ or online via `video call`_.
    
-   .._face-to-face identification: https://www.skribble.com/identification/
+   .. _face-to-face identification: https://www.skribble.com/identification/
    
-   .._video call: https://www.videoident.me/ch/de/ 
+   .. _video call: https://www.videoident.me/ch/de/ 
    
    
 - **Face-to-Face**
@@ -71,13 +71,13 @@ Do you plan to add new employees to your Skribble Business regularly? In this ca
 
 Video identification allows employees in your company to do the identity check online via their computer or smartphone. It takes less than 5 minutes and can be done anytime, anywhere. `Learn more about video identification here`_ (in German only). 
 
-.._Learn more about video identification here: https://www.videoident.me/ch/de/ 
+ .. _Learn more about video identification here: https://www.videoident.me/ch/de/ 
 
 After successful identity verification, your team members are ready to sign electronically with QES.
 
 Not sure what identification option is suitable for your company or need assistance with adding your team members to Skribble? Get in touch with our support at `support@skribble.com`_. We'll be pleased to assist you in finding the right solution.
 
-.._support@skribble.com: support@skribble.com 
+ .. _support@skribble.com: support@skribble.com 
 
 
 
