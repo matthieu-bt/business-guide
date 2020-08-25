@@ -63,10 +63,9 @@ Two options are available:
 - Anyone can make an appointment at one of the Skribble offices to have their identity verified by our staff.
 - To verify a stable team, our staff can come to your office and verify one person who can then verify everyone else in your team.
 
-Do you plan to add new employees to your Skribble Business regularly? In this case, we recommend a one-time training for one employee in your company. After the training, this employee will be able to verify the identity of other employees, customers, or even suppliers independently using the ID app of Swisscom. `Learn more here`_.
+Do you plan to add new employees to your Skribble Business regularly? In this case, we recommend a one-time training for one employee in your company. After the training, this employee will be able to verify the identity of other employees, customers, or even suppliers independently using the ID app of Swisscom. `Learn more how it works`_.
 
- .. _Learn more here.: https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/English/Skribble_Overview_Identification_EN.pdf
-
+ .. _Learn more how it works.: https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/English/Skribble_Overview_Identification_EN.pdf
 
 - **Via video call**
 
