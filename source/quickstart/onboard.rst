@@ -5,14 +5,13 @@ Getting started with Skribble Business
 ======================================
 
 To enable your team members to sign with Skribble once you’ve set up **Skribble Business** for your company, you’ll have to:
-  - add your team members to Skribble Business and
+
+  - add your team members and
   - have their identities verified
 
 Here’s a quick guide on how to do it.
 
-
-Adding team members to Skribble Business
-----------------------------------------
+- **Adding team members to Skribble Business**
 
 You can add your team members by:
 
@@ -25,8 +24,7 @@ You can add your team members by:
 .. _Learn more in this guide: https://docs.skribble.com/business-admin/members/adding.html#adding-members-by-e-mail
 
 
-Having team members’ identities verified
-----------------------------------------
+- **Having team members’ identities verified**
 
 To sign documents electronically, employees in your company will have to get their identities verified. Skribble offers various identification options depending on your individual use case and the e-signature standard (or legal weight) required.
 
@@ -35,7 +33,8 @@ To sign documents electronically, employees in your company will have to get the
    
    .. _e-signature standards page: https://www.skribble.com/signaturestandards
    
-   - **Advanced electronic signature (AES)**
+   
+**Advanced electronic signature (AES)**
    
    To sign with AES, employees in your company will require a Swiss mobile number or a company e-mail address.
    
@@ -48,7 +47,7 @@ To sign documents electronically, employees in your company will have to get the
   Register your company domain with Skribble and enable your entire company to sign with AES. Anyone who signs up with Skribble using an e-mail domain of your company will be    able to sign immediately with AES.
    
    
-   - **Qualified electronic signature (QES)**
+**Qualified electronic signature (QES)**
    
    To enable your team members to sign documents electronically with QES, you can choose between `face-to-face identification`_ or online via `video call`_.
    
@@ -60,7 +59,9 @@ To sign documents electronically, employees in your company will have to get the
 - **Face-to-Face**
    
 Two options are available:
+
 - Anyone can make an appointment at one of the Skribble offices to have their identity verified by our staff.
+
 - To verify a stable team, our staff can come to your office and verify one person who can then verify everyone else in your team.
 
 Do you plan to add new employees to your Skribble Business regularly? In this case, we recommend a one-time training for one employee in your company. After the training, this employee will be able to verify the identity of other employees, customers, or even suppliers independently using the ID app of Swisscom. `Learn more how it works`_.
