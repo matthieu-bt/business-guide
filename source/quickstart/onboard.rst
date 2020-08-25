@@ -20,9 +20,9 @@ You can add your team members by:
 
 .. _Go to the guide: https://docs.skribble.com/business-admin/members/adding.html#adding-members-by-domain 
 
-- Adding each team member individually by e-mail `Go to the guide`_ 
+- Adding each team member individually by e-mail `Check the guide`_ 
 
-.. _Go to the guide: https://docs.skribble.com/business-admin/members/adding.html#adding-members-by-e-mail
+.. _Check the guide: https://docs.skribble.com/business-admin/members/adding.html#adding-members-by-e-mail
 
 
 Having team members’ identities verified
@@ -46,11 +46,15 @@ To sign documents electronically, employees in your company will have to get the
 
   - **Company e-mail address**
    
-   Register your company domain with Skribble and enable your entire company to sign with AES. Anyone who signs up with Skribble using an e-mail domain of your company will be able to sign immediately with AES.
+   Register your company domain with Skribble and enable your entire company to sign with AES. Anyone who signs up with Skribble using an e-mail domain of your company will be    able to sign immediately with AES.
    
    - **Qualified electronic signature (QES)**
    
    To enable your team members to sign documents electronically with QES, you can choose between `face-to-face identification`_ or online via `video call`_.
+   
+   .._face-to-face identification: https://www.skribble.com/identification/
+   
+   .._video call: https://www.videoident.me/ch/de/ 
    
 - **Face-to-Face identification**
    
@@ -60,15 +64,15 @@ Two options are available:
 
 - To verify a stable team, our staff can come to your office and verify one person who can then verify everyone else in your team.
 
-Do you plan to add new employees to your Skribble Business regularly? In this case, we recommend a one-time training for one employee in your company. After the training, this employee will be able to verify the identity of other employees, customers, or even suppliers independently using the ID app of Swisscom. `Learn more on how it works here`_.
+Do you plan to add new employees to your Skribble Business regularly? In this case, we recommend a one-time training for one employee in your company. After the training, this employee will be able to verify the identity of other employees, customers, or even suppliers independently using the ID app of Swisscom. `Learn more here`_.
 
-.._Learn more on how it works here.: https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/English/Skribble_Overview_Identification_EN.pdf
+.._Learn more here.: https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/English/Skribble_Overview_Identification_EN.pdf
 
    **Online via video call**
-   
-   Video identification allows employees in your company to do the identity check online via their computer or smartphone. It takes less than 5 minutes and can be done anytime, anywhere. `Learn more on how it works here`_ (in German only). 
 
-.._Learn more how it works here: https://www.videoident.me/ch/de/ 
+Video identification allows employees in your company to do the identity check online via their computer or smartphone. It takes less than 5 minutes and can be done anytime, anywhere. `Learn more about video identification here`_ (in German only). 
+
+.._Learn more about video identification here: https://www.videoident.me/ch/de/ 
 
 After successful identity verification, your team members are ready to sign electronically with QES.
 
