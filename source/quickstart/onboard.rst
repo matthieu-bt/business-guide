@@ -38,7 +38,9 @@ To sign documents electronically, employees in your company will have to get the
    - **Advanced electronic signature (AES)**
    
    To sign with AES, employees in your company will require a Swiss mobile number or a company e-mail address.
+   
    - **Swiss mobile number**
+   
    Anyone who signs up with Skribble using a Swiss mobile phone number can sign immediately with AES.
 
   - **Company e-mail address**
