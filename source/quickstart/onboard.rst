@@ -16,13 +16,13 @@ Adding team members to Skribble Business
 
 You can add your team members by:
 
-- Adding your company domain `Go to the guide`_ or by
+- Adding your company domain (`Click here for guidance`_) or by
 
-.. _Go to the guide: https://docs.skribble.com/business-admin/members/adding.html#adding-members-by-domain 
+.. _Click here for guidance: https://docs.skribble.com/business-admin/members/adding.html#adding-members-by-domain 
 
-- Adding each team member individually by e-mail `Check the guide`_ 
+- Adding each team member individually by e-mail `Learn more in this guide`_ 
 
-.. _Check the guide: https://docs.skribble.com/business-admin/members/adding.html#adding-members-by-e-mail
+.. _Learn more in this guide: https://docs.skribble.com/business-admin/members/adding.html#adding-members-by-e-mail
 
 
 Having team members’ identities verified
