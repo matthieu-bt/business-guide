@@ -40,13 +40,14 @@ To sign documents electronically, employees in your company will have to get the
    
    To sign with AES, employees in your company will require a Swiss mobile number or a company e-mail address.
    
-   **Swiss mobile number**
+    - **Swiss mobile number**
    
    Anyone who signs up with Skribble using a Swiss mobile phone number can sign immediately with AES.
 
   - **Company e-mail address**
    
    Register your company domain with Skribble and enable your entire company to sign with AES. Anyone who signs up with Skribble using an e-mail domain of your company will be    able to sign immediately with AES.
+   
    
    - **Qualified electronic signature (QES)**
    
@@ -68,7 +69,7 @@ Do you plan to add new employees to your Skribble Business regularly? In this ca
 
 .._Learn more here.: https://cdn2.hubspot.net/hubfs/5051692/Factstheets/Identification/English/Skribble_Overview_Identification_EN.pdf
 
-   **Online via video call**
+- **Online via video call**
 
 Video identification allows employees in your company to do the identity check online via their computer or smartphone. It takes less than 5 minutes and can be done anytime, anywhere. `Learn more about video identification here`_ (in German only). 
 
