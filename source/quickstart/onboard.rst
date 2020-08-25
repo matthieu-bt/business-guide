@@ -11,20 +11,19 @@ To enable your team members to sign with Skribble once you’ve set up **Skribbl
 
 Here’s a quick guide on how to do it.
 
-- **Adding team members to Skribble Business**
+**Adding team members to Skribble Business**
 
 You can add your team members by:
 
 - Adding your company domain (`Click here for guidance`_) or by
 
 .. _Click here for guidance: https://docs.skribble.com/business-admin/members/adding.html#adding-members-by-domain
-
 - Adding each team member individually by e-mail (`Learn more in this guide`_)
 
 .. _Learn more in this guide: https://docs.skribble.com/business-admin/members/adding.html#adding-members-by-e-mail
 
 
-- **Having team members’ identities verified**
+**Having team members’ identities verified**
 
 To sign documents electronically, employees in your company will have to get their identities verified. Skribble offers various identification options depending on your individual use case and the e-signature standard (or legal weight) required.
 
@@ -35,12 +34,12 @@ To sign documents electronically, employees in your company will have to get the
    
    
 **Advanced electronic signature (AES)**
+
+To sign with AES, employees in your company will require a Swiss mobile number or a company e-mail address.
    
-   To sign with AES, employees in your company will require a Swiss mobile number or a company e-mail address.
+  - **Swiss mobile number**
    
-   - **Swiss mobile number**
-   
-   Anyone who signs up with Skribble using a Swiss mobile phone number can sign immediately with AES.
+  Anyone who signs up with Skribble using a Swiss mobile phone number can sign immediately with AES.
 
   - **Company e-mail address**
   
@@ -48,8 +47,8 @@ To sign documents electronically, employees in your company will have to get the
    
    
 **Qualified electronic signature (QES)**
-   
-   To enable your team members to sign documents electronically with QES, you can choose between `face-to-face identification`_ or online via `video call`_.
+
+To enable your team members to sign documents electronically with QES, you can choose between `face-to-face identification`_ or online via `video call`_.
    
    .. _face-to-face identification: https://www.skribble.com/identification/
    
