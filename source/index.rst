@@ -19,6 +19,7 @@ For more information on how to use the Skribble e-signing platform, visit our `H
    quickstart/product
    quickstart/setup
    quickstart/upgrade
+   quickstart/onboard
    quickstart/toggling
    quickstart/signature
 
