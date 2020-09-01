@@ -59,9 +59,9 @@ To enable your team members to sign documents electronically with QES, you can c
    
 Two options are available:
 
-- Anyone can make an appointment at one of the Skribble offices to have their identity verified by our staff.
+- Anyone can make an appointment at one of the identification site to have their identity verified.
 
-- To verify a stable team, our staff can come to your office and verify one person who can then verify everyone else in your team.
+- To verify a stable team, our staff can come to your office and train one person who can then verify everyone else in your team.
 
 Do you plan to add new employees to your Skribble Business regularly? In this case, we recommend a one-time training for one employee in your company. After the training, this employee will be able to verify the identity of other employees, customers, or even suppliers independently using the ID app of Swisscom. `Learn more on how it works`_.
 
