@@ -13,7 +13,7 @@ Documents that have been signed or declined by all parties will automatically an
 
 To set a new deletion period:
 
-- Click **Business profile** if you're not already there 
+- Click **Business profile** if you're not already there
 
 .. image:: deletion_period_click_profile1
     :class: with-shadow
@@ -29,11 +29,11 @@ To set a new deletion period:
 
 You'll be able to choose between 5, 10, 30, 60 and 90 days.
 
-.. image:: deletion_period_click_pencil3
+.. image:: deletion_period_click_pencil2
     :class: with-shadow
     
     
-- Click **Save** to confirm 
+- Click **Save** to confirm
 
 .. image:: deletion_period_click_save4
     :class: with-shadow
@@ -41,7 +41,7 @@ You'll be able to choose between 5, 10, 30, 60 and 90 days.
     
 **E-mail notifications**
 
-We will send an e-mail reminder to all members associated with your Skribble Business one week before the deletion period of a specific document expires. Additionally, we will send a final e-mail reminder on the day of deletion. We highly recommend that you inform all members when you set a new deletion period to ensure they can download their documents in good time. 
+We will send an e-mail reminder to all members associated with your Skribble Business one week before the deletion period of a specific document expires. Additionally, we will send a final e-mail reminder on the day of deletion. We highly recommend that you inform all members when you set a new deletion period to ensure they can download their documents in good time.
 
 .. NOTE::
    If the document deletion period is set to **5 days**, we will send an e-mail reminder in the morning of the expiration date.
@@ -49,4 +49,3 @@ We will send an e-mail reminder to all members associated with your Skribble Bus
    Should you have any questions or require further assistance, please drop us an e-mail at `support@skribble.com`_.
    
    .. _support@skribble.com: support@skribble.com
-   
