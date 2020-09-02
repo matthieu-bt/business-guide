@@ -7,9 +7,7 @@ Managing Document Deletion Period
 .. NOTE::
    This article describes a feature that is only available to Skribble Enterprise customers.
 
-Documents that have been signed or declined by all parties will automatically and irrevocably be deleted from Skribble after 30 days (unless otherwise specified). As an administrator, you can customise document deletion period for your company and set it to 5, 10, 30, 60 or 90 days.
-
-**Note:** Setting a new deletion period will apply it to all Skribble accounts and members associated with your Skribble Business.
+Documents that have been signed or declined by all parties will automatically and irrevocably be deleted from Skribble after 30 days (unless otherwise specified). As an administrator, you can customise document deletion period for your company and set it to 5, 10, 30, 60 or 90 days. Setting a new deletion period will apply it to all Skribble accounts and members associated with your Skribble Business.
 
 To set a new deletion period:
 
@@ -35,7 +33,7 @@ You'll be able to choose between 5, 10, 30, 60 and 90 days.
     
 - Click **Save** to confirm
 
-.. image:: deletion_period_click_pencil2.png
+.. image:: deletion_period_click_save4.png
     :class: with-shadow
     
     
