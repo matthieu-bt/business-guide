@@ -32,6 +32,7 @@ For more information on how to use the Skribble e-signing platform, visit our `H
    account/usage
    account/contact
    account/branding
+   account/deletionperiod
 
 
 .. toctree::
