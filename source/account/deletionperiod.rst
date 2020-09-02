@@ -15,13 +15,13 @@ To set a new deletion period:
 
 - Click **Business profile** if you're not already there
 
-.. image:: deletion_period_click_profile1
+.. image:: deletion_period_click_profile1.png
     :class: with-shadow
     
     
 - Go to **Deletion period**
 
-.. image:: deletion_period_click_deletion_period2
+.. image:: deletion_period_click_deletion_period2.png
     :class: with-shadow
     
 
@@ -29,13 +29,13 @@ To set a new deletion period:
 
 You'll be able to choose between 5, 10, 30, 60 and 90 days.
 
-.. image:: deletion_period_click_pencil2
+.. image:: deletion_period_click_pencil2.png
     :class: with-shadow
     
     
 - Click **Save** to confirm
 
-.. image:: deletion_period_click_save4
+.. image:: deletion_period_click_save4.png
     :class: with-shadow
     
     
