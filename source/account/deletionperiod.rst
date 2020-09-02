@@ -1,8 +1,8 @@
 .. _account-deletionperiod:
 
-=================================
-Managing Document Deletion Period
-=================================
+==================================
+Setting a Document Deletion Period
+==================================
 
 .. NOTE::
    This article describes a feature that is only available to Skribble Enterprise customers.
