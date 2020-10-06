@@ -14,7 +14,7 @@ Please note that registering a domain incurs a one-time setup fee. Pricing is sh
 Registering your company for AES for Business
 ---------------------------------------------
 
-- From your Business Account, click the menu button in the top left of the page
+- From your Skribble Business, click the menu button in the top left of the page
 
 
 .. image:: aes_menu.png
