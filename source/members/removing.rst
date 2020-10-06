@@ -5,7 +5,7 @@ Removing Members from Skribble Business
 =======================================
 
 .. NOTE::
-   Removing a member from Skribble Business will downgrade the member's plan to **Free**. 
+   Removing a member from Skribble Business will downgrade the member's plan to **Skribble Free**. 
    
 
 - Click **Members** if you aren't already there
