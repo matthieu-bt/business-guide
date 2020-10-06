@@ -24,7 +24,7 @@ Registering your company for AES for Business
 - Click **Business profile**
 
 
-.. image:: aes_profile.png
+.. image:: AES_for_Business_Profile.png
     :class: with-shadow
 
 
