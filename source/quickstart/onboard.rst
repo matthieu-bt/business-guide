@@ -69,12 +69,14 @@ Do you plan to add new employees to your Skribble Business regularly? In this ca
 
 - **Via video call**
 
+**Note:** Video identification is only permitted for signing with qualified electronic signature (QES) under EU law. If you want to sign with QES under Swiss law, you'll need to have your identity verified face-to-face at one of your locations.
+
 Video identification allows employees in your company to do the identity check online via their computer or smartphone. It takes less than 5 minutes and can be done anytime, anywhere. `Learn more about video identification here`_ (in German only).
 
  .. _Learn more about video identification here: https://www.videoident.me/ch/de/
 
-After successful identity verification, your team members are ready to sign electronically with QES.
+After successful identity verification, your team members will be ready to sign electronically with QES according to EU law.
 
-Not sure what identification option is suitable for your company or need assistance with adding your team members to Skribble? Get in touch with our support at `support@skribble.com`_. We'll be pleased to assist you in finding the right solution.
+Not sure what identification option is suitable for your company or need assistance with adding your team members to Skribble? Get in touch with our support team at `support@skribble.com`_. We'll be pleased to assist you in finding the right solution.
 
  .. _support@skribble.com: support@skribble.com
