@@ -59,7 +59,7 @@ To enable your team members to sign documents electronically with QES, you can c
    
 Two options are available:
 
-- Anyone can make an appointment at one of the identification site to have their identity verified.
+- Anyone can make an appointment at one of our locations to have their identity verified.
 
 - To verify a stable team, our staff can come to your office and train one person who can then verify everyone else in your team.
 
@@ -75,7 +75,9 @@ Video identification allows employees in your company to do the identity check o
 
 After successful identity verification, your team members will be ready to sign electronically with QES according to EU law.
 
-**Note:** Video identification is only permitted for signing with qualified electronic signature (QES) under EU law. If you want to sign with QES under Swiss law, you'll need to have your identity verified `face-to-face at one of our locations`_.
+
+.. NOTE::
+   Video identification is only permitted for signing with qualified electronic signature (QES) under EU law. If you want to sign with QES under Swiss law, you'll need to have your identity verified `face-to-face at one of our locations`_.
 
  .. _face-to-face at one of our locations: https://trustservices.swisscom.com/en/srs-direct/
 
