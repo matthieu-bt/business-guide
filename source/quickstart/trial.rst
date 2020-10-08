@@ -24,3 +24,19 @@ Follow `this guide`_ to get started with your free trial.
 .. _this guide: https://docs.skribble.com/business-admin/quickstart/upgrade.html
 
 
+
+Cancelling free trial
+-------------------------
+
+.. NOTE::
+  Cancelling your free trial will automatically delete Skribble Business and transfer all members to the Skribble Free plan.
+
+To cancel your free trial:
+
+  - Go to your **Business profile** if you’re not already there 
+  
+  - Click **Billing** 
+  
+  - Navigate to **Current plan** and click the pencil icon 
+  
+  - Click **Cancel free trial**
