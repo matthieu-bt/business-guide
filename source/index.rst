@@ -3,12 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to the Skribble Business Account Admin Guide
+Welcome to the Skribble Business Admin Guide
 =====================================================
 
-This guide is intended to help Skribble business account administrators to manage and monitor company accounts.
-
-For more information on how to use the Skribble e-signing platform, visit our `Help Center`_.
+This guide is intended to help company administrators set up and manage Skribble for their companies. For more information on how to use the e-signing platform my.skribble.com, visit our `Help Center`_.
 
 .. _Help Center: https://help.skribble.com/english
 
@@ -16,11 +14,10 @@ For more information on how to use the Skribble e-signing platform, visit our `H
    :maxdepth: 2
    :caption: Quick Start:
 
-   quickstart/product
-   quickstart/setup
+   quickstart/admin
    quickstart/upgrade
    quickstart/onboard
-   quickstart/toggling
+   quickstart/trial
    quickstart/signature
 
 
