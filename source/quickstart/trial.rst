@@ -2,7 +2,7 @@
 
 ============================
 Starting a free 30-day trial
-=============================
+============================
 
 Skribble offers a free month for new customers. You won’t be charged during your free trial and we’ll send you a reminder 7 days before the trial expires.
 Here’re some of the noteworthy things you should know about the trial period.
@@ -19,6 +19,8 @@ Here’re some of the noteworthy things you should know about the trial period.
 
 We’ll ask for your credit card information, but you won’t be charged until the trial ends Having this information makes sure there won’t be any interruptions in case you decide to continue using Skribble after the trial period.
 
-Follow "this guide`_ to get started with your free trial.
+Follow `this guide`_ to get started with your free trial.
 
 .. _this guide: https://docs.skribble.com/business-admin/quickstart/upgrade.html
+
+
