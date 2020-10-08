@@ -1,15 +1,10 @@
 .. quickstart-onboard:
 
-======================================
-Getting started with Skribble Business
-======================================
+===============
+Getting started
+===============
 
-To enable your team members to sign documents electronically after you’ve set up **Skribble Business** for your company, you’ll have to:
-
-  - add your team members and
-  - have their identities verified
-
-Here’s a quick guide on how to do it.
+Now that you’ve set up Skribble Business for your company, we recommend that you start with adding your team members to enable them to sign electronically with Skribble. Here’s a quick guide on how to do it.
 
 **Adding team members to Skribble Business**
 
