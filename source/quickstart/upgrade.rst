@@ -1,8 +1,8 @@
 .. _upgrade-to-business:
 
-====================================
-Creating a Skribble Business Account
-====================================
+============================
+Setting up Skribble Business
+============================
 If you do not have a Skribble account, please create one at `skribble.com`_.
 
 .. _skribble.com: https://my.skribble.com/signup
