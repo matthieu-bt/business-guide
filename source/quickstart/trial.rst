@@ -9,7 +9,7 @@ Here’re some of the noteworthy things you should know about the trial period.
 
   - 50 signatures included 
   
-  Your free trial included 50 signatures that you can use free of charge.
+  Your free trial includes 50 signatures that you can use free of charge.
   
   - Cancel at any time
   
@@ -17,9 +17,9 @@ Here’re some of the noteworthy things you should know about the trial period.
   
   - A valid credit card is required to get started
 
-We’ll ask for your credit card information, but you won’t be charged until the trial ends Having this information makes sure there won’t be any interruptions in case you decide to continue using Skribble after the trial period.
+We’ll ask for your credit card information, but you won’t be charged until the trial ends. Having this information makes sure there won’t be any interruptions in case you decide to continue using Skribble after the trial period.
 
-Follow `this guide`_ to get started with your free trial.
+Follow `this guide`_ to start your free trial.
 
 .. _this guide: https://docs.skribble.com/business-admin/quickstart/upgrade.html
 
@@ -29,14 +29,35 @@ Cancelling free trial
 -------------------------
 
 .. NOTE::
-  Cancelling your free trial will automatically delete Skribble Business and transfer all members to the Skribble Free plan.
+  Cancelling your free trial will automatically delete Skribble Business and transfer all members to the **Skribble Free** plan.
 
 To cancel your free trial:
-
-  - Go to your **Business profile** if you’re not already there 
+    
+    
+  - From your Business profile, click **Billing** 
   
-  - Click **Billing** 
   
-  - Navigate to **Current plan** and click the pencil icon 
+  .. image:: step_1_billing.png
+    :class: with-shadow
+    
+    
+  - Navigate to **Current plan** and click the **pencil** icon 
+  
+    
+    .. image:: step_2_pencil.png 
+    :class: with-shadow
+    
   
   - Click **Cancel free trial**
+  
+  
+   .. image:: step_3_cancel_trial.png 
+    :class: with-shadow
+    
+    
+   - Click **Yes, cancel free trial** to confirm that you really want to cancel the trial and delete Skribble Business
+  
+  
+   .. image:: step_4_confirm_cancel.png  
+    :class: with-shadow
+  
