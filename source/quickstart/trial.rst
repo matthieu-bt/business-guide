@@ -41,8 +41,8 @@ To cancel your free trial:
     
   - Navigate to **Current plan** and click the **pencil** icon
   
-    
-    .. image:: step_2_pencil.png
+  
+  .. image:: step_2_pencil.png
     :class: with-shadow
     
     
