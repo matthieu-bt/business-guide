@@ -30,7 +30,7 @@ This guide is intended to help company administrators set up and manage Skribble
    account/contact
    account/branding
    account/deletionperiod
-   account/siganture
+   account/signature
 
 
 .. toctree::
