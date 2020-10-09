@@ -32,7 +32,6 @@ Cancelling free trial
 
 To cancel your free trial:
     
-    
   - From your Business profile, click **Billing**
   
   
@@ -46,7 +45,7 @@ To cancel your free trial:
     .. image:: step_2_pencil.png
     :class: with-shadow
     
-  
+    
   - Click **Cancel free trial**
   
   
