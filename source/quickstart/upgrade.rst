@@ -9,7 +9,10 @@ Setting up Skribble Business
 
 .. _skribble.com: https://my.skribble.com/signup
 
-To set up Skribble Business:
+Skribble offers a free month to new customers. You won’t be charged during your free trial and you can cancel at any time.
+
+
+To set up Skribble Business and start your free trial:
 
 - Log in to your Skribble Account at https://my.skribble.com/
 
@@ -69,7 +72,7 @@ If you accept the terms, click the box next to "I agree to the General Terms and
     :class: with-shadow
     
 
-Congratulations, you can now use Skribble Business for your company. Click **Add new members** to begin managing your organisation.
+Congratulations, you can now test Skribble Business for free for 30 days. Click **Add new members** to add your team members and enbale them to sign electronically.
 
 
 .. image:: step_5_confirmation.png
