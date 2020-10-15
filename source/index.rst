@@ -19,6 +19,7 @@ This guide is intended to help company administrators set up and manage Skribble
    quickstart/onboard
    quickstart/members
    quickstart/trial
+   quickstart/paymentmethod
 
 
 
