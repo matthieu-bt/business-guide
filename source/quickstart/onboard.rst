@@ -34,7 +34,7 @@ To sign with AES, employees in your company will require a company e-mail addres
 
   - **Company e-mail address**
   
-By registering your company domain with Skribble you will enable your entire company to sign with AES. Anyone who signs up with Skribble using an e-mail address of your company and is a member of your Skribble Business will be able to sign immediately with AES. More information on AES for Business available at `skribble.com`_.
+By registering your company domain with Skribble, you will enable your entire company to sign with AES. Anyone who signs up with Skribble using an e-mail address of your company and is a member of your Skribble Business will be able to sign immediately with AES. More information on AES for Business available at `skribble.com`_.
 
    .. _skribble.com: https://www.skribble.com/identification/aes-for-business/
 
@@ -74,9 +74,9 @@ After successful identity verification, your team members will be ready to sign 
 
 
 .. NOTE::
-   Video identification is only permitted for signing with qualified electronic signature (QES) according to EU law. If you want to sign with QES according to Swiss law, you'll need to go through a `personal verification oferred at various locations`_ in Switzerland.
+   Video identification is only permitted for signing with qualified electronic signature (QES) according to EU law. If you want to sign with QES according to Swiss law, you'll need to go through a `personal verification offered at various locations`_ in Switzerland.
 
- .. _personal verification oferred at various locations: https://trustservices.swisscom.com/en/srs-direct/
+ .. _personal verification offered at various locations: https://trustservices.swisscom.com/en/srs-direct/
 
 Not sure what identification option is suitable for your company or need assistance with adding your team members to Skribble Business? Get in touch with our support team at `support@skribble.com`_. We'll be happy to assist you in finding the right solution.
 
