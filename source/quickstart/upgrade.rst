@@ -1,15 +1,22 @@
 .. _upgrade-to-business:
 
-====================================
-Creating a Skribble Business Account
-====================================
-If you do not have a Skribble account, please create one at `skribble.com`_.
+============================
+Setting up Skribble Business
+============================
+
+.. NOTE::
+  You’ll need a Skribble account to set up Skribble Business for your company. You can create one at `skribble.com`_ if you don’t have one yet. 
 
 .. _skribble.com: https://my.skribble.com/signup
 
-To upgrade your account to Skribble Business:
+Skribble offers a free month to new customers. You won’t be charged during your free trial and you can cancel at any time.
 
-- Log in to your Skribble Account at https://my.skribble.com/
+
+To set up Skribble Business and start your free trial:
+
+- Log in to your Skribble account at `my.skribble.com`_
+
+.. _my.skribble.com: https://my.skribble.com/
 
 - Click the menu button in the top left
 
@@ -34,33 +41,42 @@ On the following page you will see a brief description of Skribble Business.
     :class: with-shadow
 
 
-- Enter the exact, legal name of your organisation and click **Continue**
+- Enter your full and exact company name and read our General Terms & Conditions
+
+If you accept the terms, click the box next to "I agree to the General Terms and Conditions of Skribble on behalf of my company", and then click **Next** 
 
 
-.. image:: upgrade_step1.png
+.. image:: step_1_comp_name.png
     :class: with-shadow
 
 
-- Enter the address of your organisation and click **Continue**
+- Enter your company’s billing address and click **Next**
 
 
-.. image:: upgrade_step2.png
+.. image:: step_2_billing_address.png
     :class: with-shadow
 
 
-- Choose your billing period and click **Continue**
+- Choose your preferred billing period and click **Next**
 
 
-.. image:: upgrade_step3.png
+.. image:: step_3_start_trial.png
     :class: with-shadow
+    
 
-- Read the General Terms & Conditions on the third page of registration. If you agree, click the box next to "I agree with the General Terms and Conditions (GTC)", then click **Complete upgrade**
+- Enter your credit card details and click **Start your free 30-day trial**
 
-.. image:: upgrade_step4.png
+.. NOTE::
+   Your credit card won’t be charged until the trial period expires.
+   
+
+.. image:: step_4_card_details.png
     :class: with-shadow
+    
 
-Congratulations, your account has been upgraded to Skribble Business! Click **Start now** to begin managing your organisation.
+Congratulations, you can now test Skribble Business for free for 30 days. Click **Add new members** to add your team members and enbale them to sign electronically.
 
 
-.. image:: upgrade_welcome.png
+.. image:: step_5_confirmation.png
     :class: with-shadow
+    

@@ -1,4 +1,4 @@
-.. _quickstart-signature:
+.. _account-signature:
 
 =============================
 Customising Visual Signatures
