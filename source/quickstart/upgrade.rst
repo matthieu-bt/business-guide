@@ -43,7 +43,7 @@ On the following page you will see a brief description of Skribble Business.
 
 - Enter your full and exact company name and read our General Terms & Conditions
 
-If you accept the terms, click the box next to "I agree to the General Terms and Conditions of Skribble on behalf of my company, and then click **Next** 
+If you accept the terms, click the box next to "I agree to the General Terms and Conditions of Skribble on behalf of my company", and then click **Next** 
 
 
 .. image:: step_1_comp_name.png
