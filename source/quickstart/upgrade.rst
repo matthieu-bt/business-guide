@@ -5,7 +5,7 @@ Setting up Skribble Business
 ============================
 
 .. NOTE::
-   To set up Skribble Business for your company, you’ll need a Skribble account. You can create one at `skribble.com`_ if you don’t have one yet. 
+  You’ll need a Skribble account to set up Skribble Business for your company. You can create one at `skribble.com`_ if you don’t have one yet. 
 
 .. _skribble.com: https://my.skribble.com/signup
 
@@ -14,7 +14,9 @@ Skribble offers a free month to new customers. You won’t be charged during you
 
 To set up Skribble Business and start your free trial:
 
-- Log in to your Skribble Account at https://my.skribble.com/
+- Log in to your Skribble account at `my.skribble.com`_
+
+.. _my.skribble.com: https://my.skribble.com/
 
 - Click the menu button in the top left
 
