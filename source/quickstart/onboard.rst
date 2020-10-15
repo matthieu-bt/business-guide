@@ -32,7 +32,7 @@ To sign documents electronically, employees in your company will need to have th
 
 To sign with AES, employees in your company will require a company e-mail address or a Swiss mobile number.
 
-  - **Company e-mail address**
+ - **Company e-mail address**
   
 By registering your company domain with Skribble, you will enable your entire company to sign with AES. Anyone who signs up with Skribble using an e-mail address of your company and is a member of your Skribble Business will be able to sign immediately with AES. More information on AES for Business available at `skribble.com`_.
 
@@ -52,7 +52,7 @@ To enable your team members to sign documents electronically with QES, you can c
    .. _video call: https://www.videoident.me/ch/de/
    
    
-- **Face-to-Face**
+- **Face-to-face**
    
 Two options are available:
 
