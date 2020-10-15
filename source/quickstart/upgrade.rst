@@ -62,10 +62,10 @@ If you accept the terms, click the box next to "I agree to the General Terms and
     :class: with-shadow
     
 
-- Enter your credit card details and click **Next**
+- Enter your credit card details and click **Start your free 30-day trial**
 
 .. NOTE::
-   Your credit card won’t be charged until the 30-day trial period expires.
+   Your credit card won’t be charged until the trial period expires.
    
 
 .. image:: step_4_card_details.png
