@@ -4,16 +4,17 @@
 Starting a free 30-day trial
 ============================
 
-Skribble offers a free month to new customers. You won’t be charged during your free trial and you can cancel at any time. Additionally, we’ll send you a reminder 7 days before the trial expires.
+Skribble offers a free month to new customers. You won’t be charged during your free trial and you can cancel at any time. 
+
 Here’re some of the noteworthy things you should know about the trial period.
 
   - **50 signatures included**
   
-Your free trial includes 50 signatures that you can use free of charge.
+Your free trial includes 50 signatures that you can use free of charge during the trial period.
   
   - **Cancel at any time**
   
-You can cancel the free trial at any time. If you don’t, Skribble Business will continue to run automatically after the trial expires, and your credit card will be charged with the applicable monthly or yearly fee.
+You can cancel the trial at any time. If you don’t, Skribble Business will continue to run automatically after the trial expires, and your credit card will be charged with the applicable monthly or yearly fee.
   
   - **A valid credit card is required to get started**
   
