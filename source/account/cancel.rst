@@ -23,7 +23,7 @@ To cancel your Skribble Business:
 
 - Navigate to **Current plan** and click the **pencil icon**
 
-  .. image:: step_1_go_business.png
+  .. image:: step_3_current_plan_edit.png
     :class: with-shadow
     
     
@@ -31,41 +31,20 @@ To cancel your Skribble Business:
  
  In the next step, you will have to confirm that you really want to cancel Skribble Business.
 
-  .. image:: step_1_go_business.png
+  .. image:: step_4_cancel_business.png
     :class: with-shadow
     
  
   - Click **Yes, cancel** to confirm
 
-  .. image:: step_1_go_business.png
+  .. image:: step_5_confirm_deletion.png
     :class: with-shadow
     
     
-If you change your mind, you can revoke the deletion of your Skribble Business provided your current billing period is not over yet. 
+If you change your mind, you can revoke the deletion of your Skribble Business. 
 
-
-- From the **Billing page**, navigate to **Current plan**
-
-Here you will see the date your Skribble Business will be deleted.
-
-  
-  .. image:: step_1_billing.png
-    :class: with-shadow
-    
-    
-To revoke the deletion:
-
-- Click the **pencil** icon 
-
-    
-  .. image:: step_1_billing.png
-    :class: with-shadow
-    
-    
- - Then click **Revoke deletion** 
-
-  
-    .. image:: step_1_billing.png
-    :class: with-shadow
+To revoke the deletion of your Skribble Business:
+ 
+ - Navigate to **Current plan** and click **Revoke deletion** 
     
     
