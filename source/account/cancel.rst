@@ -48,7 +48,7 @@ To cancel your Skribble Business:
   
   
 
-  .. image:: step5_confirm_deleteion.pn
+  .. image:: step5_confirm_deletion.png
     :class: with-shadow
     
     
