@@ -23,7 +23,7 @@ To cancel your Skribble Business:
 
 - Navigate to **Current plan** and click the **pencil icon**
 
-  .. image:: step_3_current_plan_edit.png
+  .. image:: step3_current_cancel.png
     :class: with-shadow
     
     
@@ -31,13 +31,13 @@ To cancel your Skribble Business:
  
  In the next step, you will have to confirm that you really want to cancel Skribble Business.
 
-  .. image:: step_4_cancel_business.png
+  .. image:: step4_cancel_business.png
     :class: with-shadow
     
  
   - Click **Yes, cancel** to confirm
 
-  .. image:: step_5_confirm_deletion.png
+  .. image:: step5_confirm_deleteion.png
     :class: with-shadow
     
     
@@ -46,5 +46,9 @@ If you change your mind, you can revoke the deletion of your Skribble Business.
 To revoke the deletion of your Skribble Business:
  
  - Navigate to **Current plan** and click **Revoke deletion** 
+        
+
+  .. image:: step6_revoke_deletion.png
+    :class: with-shadow
     
     
