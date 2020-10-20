@@ -17,6 +17,7 @@ To cancel your Skribble Business:
 
 
 
+ 
  - Click **Billing**
 
 
@@ -25,7 +26,8 @@ To cancel your Skribble Business:
 
 
 
- - Navigate to **Current plan** and click the pencil icon
+
+- Navigate to **Current plan** and click the pencil icon
 
 
 
@@ -34,7 +36,8 @@ To cancel your Skribble Business:
     
     
     
- - Click **Cancel**
+
+- Click **Cancel**
  
  In the next step, you will have to confirm that you really want to cancel Skribble Business.
  
@@ -43,6 +46,8 @@ To cancel your Skribble Business:
     :class: with-shadow
     
     
+ 
+ 
  
  - Click **Yes, cancel** to confirm
   
