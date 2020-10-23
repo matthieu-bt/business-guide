@@ -1,10 +1,10 @@
 .. _monitor-account:
 
-=========================
-Monitoring Skribble Usage
-=========================
+================
+Monitoring Usage
+================
 
-- From the Skribble Business Account page, click **Activity** on the left-side menu.
+-  Click **Activity** on the left-side menu
 
 
 .. image:: usage_start.png
@@ -24,7 +24,9 @@ By default, this page will show all activity during the current calendar month.
     :class: with-shadow
 
 
-- To see all activity since Business account creation, click the "X" next to the month/year
+To see all activity since setting up your Skribble Business:
+
+- Click the "X" next to the month/year
 
 
 .. image:: usage_x.png
@@ -33,7 +35,7 @@ By default, this page will show all activity during the current calendar month.
 |
 |
 
-There are five categories of information provided for Skribble uses:
+You can sort the usage by:
   - Date
   - Activity
   - Concerns
