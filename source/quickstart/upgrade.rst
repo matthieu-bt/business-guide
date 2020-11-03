@@ -9,7 +9,7 @@ Setting up Skribble Business
 
 .. _skribble.com: https://my.skribble.com/signup
 
-Skribble offers a free month to new customers. You won’t be charged during your free trial and you can cancel at any time.
+Skribble offers a free trial month to new customers. You won’t be charged during the free trial, and you can cancel at any time.
 
 
 To set up Skribble Business and start your free trial:
@@ -18,26 +18,20 @@ To set up Skribble Business and start your free trial:
 
 .. _my.skribble.com: https://my.skribble.com/
 
-- Click the menu button in the top left
+- Go to **Billing** 
 
 
-.. image:: upgrade_menu.png
+.. image:: step1_setup_biz.png
     :alt: pointer to menu button
     :class: with-shadow
 
 
-- Click **Upgrade Now** under "Skribble Business"
+On the next page, you’ll see the details of the price plans available at Skribble.
+
+- Navigate to **Skribble Business** and click **Test for free**
 
 
-.. image:: upgrade_button.png
-    :class: with-shadow
-
-On the following page you will see a brief description of Skribble Business.
-
-- To upgrade, click **Upgrade now**
-
-
-.. image:: upgrade_launch.png
+.. image:: step2_setup_biz_trial.png
     :class: with-shadow
 
 
@@ -74,7 +68,7 @@ If you accept the terms, click the box next to "I agree to the General Terms and
     :class: with-shadow
     
 
-Congratulations, you can now test Skribble Business for free for 30 days. Click **Add new members** to add your team members and enbale them to sign electronically.
+Congratulations, you can now test Skribble Business for free for 30 days. Click **Add new members** to add your team members and enable them to sign electronically.
 
 
 .. image:: step_5_confirmation.png
