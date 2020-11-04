@@ -4,9 +4,9 @@
 Creating and Managing API Keys
 ==============================
 
-As a company, you can integrate the e-signing platform of Skribble into your existing infrastructure (e.g. CRM or SAP) via API. The API connection enables employees in your company to request and manage electronic signatures and documents directly from your existing infrastructure. They can invite external stakeholders or contracting parties to sign documents without creating a Skribble account. 
+As a company, you can integrate Skribble with your existing infrastructure (e.g. CRM or SAP) via API. The API connection enables employees in your company to request and manage electronic signatures and documents directly from the systems they already use. They can invite external stakeholders or contracting parties to sign documents without creating a Skribble account. 
 
-As an administrator of a Skribble Business account, you can generate and manage API keys for your company.  
+As a Skribble Business admin, you can generate and manage API keys for your company.  
 
 For more information on using API keys, please visit our `API documentation`_.
 
@@ -49,7 +49,7 @@ In the next step, you will be able to view the API key (this is your password) a
 Resetting or deleting an API key
 --------------------------------
 
-As an administrator of a Skribble Business account, you can reset or delete the existing API keys.
+As a Skribble Business admin, you can reset or delete the existing API keys.
 
 - Navigate to **API keys** if you aren't already there 
 

@@ -4,7 +4,7 @@
 Customising Visual Signatures
 =============================
  
-Members of a Skribble Enterprise and Skribble Business account can customise the appearance of their visual signature to suit individual needs. 
+Members of Skribble Enterprise and Skribble Business can customise the appearance of their visual signature to suit individual needs. 
 
 .. NOTE::
    The visual signature serves as an optional element and doesn't affect the legal weight of the electronic signature. It is up to members to decide whether they want to add their visual signature to a document in addition to the electronic signature or not.
@@ -12,7 +12,7 @@ Members of a Skribble Enterprise and Skribble Business account can customise the
 
 To customise the visual signature:
 
-- Click the **My Skribble** icon from the Skribble Business dashboard
+- Click the **My Skribble** icon from the Skribble Business dashboard (for admins)
 
 
 .. image:: 1-biz_dashboard.png
@@ -38,7 +38,7 @@ From here, you can customise the following details:
   - **Optional line** and **City**: Optional lines for any additional information (e.g. organisation, function or name)
   - **Date**: The date when the document was signed
   
-  *Available to Skribble Enterprise and Business customers only:*
+  *Available to Skribble Enterprise and Skribble Business customers only:*
   
   - **QR code**: Leads to the `website`_ that briefly explains the e-signature standards
   - **Claim and label**: "Signed with Skribble.com" claim along with an icon of the e-signature standard used
@@ -64,6 +64,6 @@ Not sure how to create your personal visual signature? Have a look at our `Help 
    
 
 .. NOTE::
-   If any of these customisation options are not visible in your account, your current price plan might not support it. Please contact our support team for assistance: support@skribble.com.
+   If any of these customisation options are not available to you, your current plan might not support it. Please contact our support team for assistance: support@skribble.com.
    
    

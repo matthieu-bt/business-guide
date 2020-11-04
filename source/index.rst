@@ -25,7 +25,7 @@ This guide is intended to help company administrators set up and manage Skribble
 
 .. toctree::
    :maxdepth: 2
-   :caption: Managing your Account:
+   :caption: Managing Skribble Business:
 
    account/usage
    account/contact

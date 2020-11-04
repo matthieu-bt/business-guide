@@ -15,7 +15,7 @@ Removing Members from Skribble Business
     :class: with-shadow
 
 
-On the **Members** page you will see a list of all members of your Skribble Business Account.
+On the **Members** page you will see a list of all members of your Skribble Business.
 
 - Click the three vertical dots to the right of the member to see available actions
 
