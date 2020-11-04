@@ -22,7 +22,7 @@ To access admin functions:
 - Log in to your Skribble account at https://my.skribble.com/
 
 
-- From your Skribble dashboard, click **Skribble Business** in the lower left
+- From your Skribble dashboard, click **Skribble Business** in the lower-left
 
 
 .. image:: toggle_biz.png
