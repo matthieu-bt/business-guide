@@ -28,6 +28,7 @@ This guide is intended to help company administrators set up and manage Skribble
    :caption: Managing Skribble Business:
 
    account/usage
+   account/signatures
    account/contact
    account/branding
    account/deletionperiod
