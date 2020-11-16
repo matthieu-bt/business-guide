@@ -27,7 +27,7 @@ This guide is intended to help company administrators set up and manage Skribble
    :maxdepth: 2
    :caption: Managing Skribble Business:
 
-   account/usage
+   account/activity
    account/signatureusage
    account/contact
    account/branding
