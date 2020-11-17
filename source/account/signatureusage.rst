@@ -4,7 +4,7 @@
 Downloading Signature Usage Report
 ==================================
 
-As an admin of Skribble Business and Skribble Enterprise, you can download a monthly signature usage report. Signature reports are available in CSV format and allow you to keep track of the signatures made by the members of your Skribble Business for each calendar month. 
+As an admin of Skribble Business and Skribble Enterprise, you can download a monthly signature usage report. Signature reports are available in CSV format and help you to keep track of signatures used by the members of your Skribble Business for each calendar month. 
 
 From your **Business profile**:
 
@@ -15,14 +15,14 @@ From your **Business profile**:
     :class: with-shadow
 
 
-- Navigate to **Usage overview**
+- Navigate to **Signature usage**
 
 
 .. image:: signature_usage_usage_overview_step2.png
     :class: with-shadow
 
 
-- Click the **Download icon** on the right of any calendar month (the CSV will be downloaded to your computer)
+- Click the **Download icon** on the right of a calendar month (the CSV will be downloaded to your computer)
 
 
 .. image:: signature_usage_download_csv_step3.png
@@ -42,7 +42,7 @@ From your **Business profile**:
 The CSV document will contain the following information:
   - **User** – member's e-mail address or an API
   - **Cost centre** –  cost centre within your business. Available only to Skribble Enterprise customers with an active single sign-on (this column will be empty if not specified by your company).
-  - **Self SES, AES and QES** – number of signatures made by members themselves
+  - **Self SES, AES and QES** – number of signatures made by members
   - **Invited SES, AES and QES** – number of signatures made by the signatories who were invited to sign by the members of your Skribble Business
   
 
