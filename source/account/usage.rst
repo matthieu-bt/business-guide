@@ -1,8 +1,8 @@
 .. _monitor-account:
 
-================
-Monitoring Usage
-================
+===================
+Monitoring Activity
+===================
 
 -  Click **Activity** on the left-side menu
 
@@ -35,7 +35,7 @@ To see all activity since setting up your Skribble Business:
 |
 |
 
-You can sort the usage by:
+You can sort the information by:
   - Date
   - Activity
   - Concerns
