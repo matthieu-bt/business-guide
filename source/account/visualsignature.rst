@@ -1,4 +1,4 @@
-.. _account-signature:
+.. _account-visualsignature:
 
 =============================
 Customising Visual Signatures
