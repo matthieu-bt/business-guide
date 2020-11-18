@@ -41,11 +41,9 @@ From your **Business profile**:
 
 The CSV document will contain the following information:
   - **User** – member's e-mail address or an API
-  - **Cost centre** –  cost centre within your business*
+  - **Cost centre** –  cost centre within your business (available only to Skribble Enterprise customers with an active single sign-on). Tthis column will be empty if not specified by your company).
   - **Self SES, AES and QES** – number of signatures made by members
   - **Invited SES, AES and QES** – number of signatures made by the signatories who were invited to sign by the members of your Skribble Business
-  
-    *Available only to Skribble Enterprise customers with an active single sign-on (this column will be empty if not specified by your company).
 
 
 .. NOTE::
