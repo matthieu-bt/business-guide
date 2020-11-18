@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Skribble Business Account'
+project = 'Skribble Business'
 copyright = '2020, Skribble AG'
 author = 'Skribble AG'
 
