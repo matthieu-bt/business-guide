@@ -79,6 +79,12 @@ In the next step, you'll be able to enter your access code.
     :class: with-shadow
 
 
+- Enter your **access code** and click **Start your trial**
+
+.. image:: set_biz_enterprise_code.png
+    :class: with-shadow
+
+
 Congratulations, you can now test Skribble Business for free for 30 days. Click **Add new members** to add your team members and enable them to sign electronically.
 
 
