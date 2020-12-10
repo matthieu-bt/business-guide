@@ -9,10 +9,10 @@ There are two ways to add members to your Skribble Business:
 - By domain (whitelisting)
 - By e-mail
 
-The simplest way to add multiple members to your Skribble Business is by registering your company domain (@example.org). Once this is complete, anyone who creates a new Skribble account using your company domain will automatically become a member of your Skribble Busines.
+The simplest way to add multiple members to your Skribble Business is by registering your company domain (@example.org). Once this is complete, anyone who creates a new Skribble account using your company domain will automatically become a member of your Skribble Business.
 
 .. NOTE::
-  Employees of your company who created a Skribble account *before* your domain was registered with your Skribble Busines will not be added automatically to your account. You will need to add them by e-mail invite, described in the next section.
+  Employees of your company who created a Skribble account *before* your domain was registered with your Skribble Business will not be added automatically to your account. You will need to add them by e-mail invite, described in the next section.
   
   
 Adding members by domain
