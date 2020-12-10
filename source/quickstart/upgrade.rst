@@ -68,6 +68,17 @@ If you accept the terms, click the box next to "I agree to the General Terms and
     :class: with-shadow
     
 
+**Are you an Enterprise customer?**
+
+- Click **Enterprise customer?**
+
+In the next step, you'll be able to enter your access code.
+
+
+.. image:: set_up_biz_enterprise.png
+    :class: with-shadow
+
+
 Congratulations, you can now test Skribble Business for free for 30 days. Click **Add new members** to add your team members and enable them to sign electronically.
 
 
