@@ -70,9 +70,16 @@ If you accept the terms, click the box next to "I agree to the General Terms and
 
 **Are you an Enterprise customer?**
 
-- Click **Enterprise customer?** and follow the instructions
+- Click **Enterprise customer?** 
 
 In the next step, you'll be able to enter an access code.
+
+
+.. image:: set_up_biz_enterprise.png
+    :class: with-shadow
+    
+    
+    - Enter your **access code** and click **Start your trial**
 
 
 .. image:: set_up_biz_enterprise.png
