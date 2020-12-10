@@ -85,7 +85,7 @@ In the next step, you'll be able to enter your access code.
     :class: with-shadow
 
 
-Congratulations, you can now test Skribble Business for free for 30 days. Click **Add new members** to add your team members and enable them to sign electronically.
+Congratulations, you can now test Skribble Business for free. Click **Add new members** to add your team members and enable them to sign electronically.
 
 
 .. image:: step_5_confirmation.png
