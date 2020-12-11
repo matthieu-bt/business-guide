@@ -68,11 +68,14 @@ If you accept the terms, click the box next to "I agree to the General Terms and
     :class: with-shadow
     
 
-**Are you an Enterprise customer?**
 
-- Click **Enterprise customer?**
+.. NOTE::
+   Are you an Enterprise customer with an access code?
+   
 
-In the next step, you'll be able to enter your access code.
+- Click **Enterprise customer?** below the credit card input field
+
+In the next step, you'll be able to enter the access code if you have one.
 
 
 .. image:: set_up_biz_enterprise.png
