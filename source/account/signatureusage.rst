@@ -4,7 +4,7 @@
 Downloading Signature Usage Report
 ==================================
 
-Admins of Skribble Business and Skribble Enterprise can download a monthly signature usage report. Signature reports are available in CSV format and help to keep track of signatures used by the members of your business for each calendar month. 
+Admins of Skribble Business and Skribble Enterprise can download a monthly signature usage report. Signature reports are available in CSV format and help keep track of signatures used by the members of your business for each calendar month. 
 
 From your **Business profile**:
 
