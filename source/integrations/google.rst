@@ -52,13 +52,16 @@ Once the plug-in is installed, please finish the setup to connect your Google Dr
   
   - Select your **Gmail Admin account** from the list
   
-Google Drive admins will need Skribble API credentials (username and API key) to proceed. You can get these from the person in charge of Skribble Business in your company. `Skribble Business admins: click here for guidance`_
+Google Drive admins will need Skribble API credentials (username and API key) to proceed. You can get these from the person in charge of Skribble Business in your company. `Skribble Business admins click here for guidance`_
 
-  .. _Skribble Business admins: click here for guidance: https://docs.skribble.com/business-admin/api/apicreate.html
+  .. _Skribble Business admins click here for guidance: https://docs.skribble.com/business-admin/api/apicreate.html
   
   - Enter **Skribble API credentials** (username and API key)
   
   - That’s it – you’ve successfully connected your Google Drive with Skribble
   
 We recommend to inform everyone in your company or team that they are ready to sign documents and invite others to sign from within Google Drive. Here’s a `quick guide`_ if they need a hand with signing from Google Drive.
+
+  .. _quick guide: https://docs.skribble.com/business-admin/
+  
 
