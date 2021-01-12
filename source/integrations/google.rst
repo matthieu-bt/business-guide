@@ -31,7 +31,7 @@ We recommend that the Google Drive admin performs the setup of the **Skribble �
   
 - Carefully read the information displayed, accept the terms of service and privacy policy if you agree with them and click **Continue**
   
-- You’ll be asked to allow access in order to complete the installation
+- You’ll be asked to allow access to complete the installation
 
 - Click **Allow** if you agree
   
