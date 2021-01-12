@@ -5,9 +5,9 @@ Signing a document from within Google Drive
 ===========================================
 
 .. NOTE::
-  Before you can sign documents directly from Google Drive, your Google Drive admin has to connect it with Skribble Business. If you don’t see **Skribble – Electronic Signature** after right-clicking on the document you want to sign, please get in touch with the Google Drive admin.
+  Before you can sign documents directly from Google Drive, your Google Drive admin has to connect it with Skribble Business. If you don’t see **Skribble – Electronic Signature** after right-clicking on the document you want to sign, please get in touch with the admin.
   
-  To sign the document from Google Drive:
+To sign the document from Google Drive:
 
 - **Right-click** on the document that you want to sign
 
