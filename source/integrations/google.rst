@@ -8,7 +8,6 @@ Skribble integrates easily with Google Drive and enables companies, departments,
 
 .. NOTE::
  If you haven't set up Skribble Business for your company yet, you can do so on my.skribble.com. `Here’s how it works`_
-  
   .. _Here’s how it works: https://docs.skribble.com/business-admin/quickstart/upgrade.html
   
 
