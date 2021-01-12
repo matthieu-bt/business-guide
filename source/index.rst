@@ -65,5 +65,5 @@ This guide is intended to help company administrators set up and manage Skribble
    :maxdepth: 2
    :caption: Integrations:
 
-   add/google
+   integrations/google
    
