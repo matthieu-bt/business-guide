@@ -24,6 +24,7 @@ We recommend that the Google Drive admin performs the setup of the **Skribble â€
 **Step-by-step guide for Google Drive admins to connect it with Skribble:**
 
   - Go to `G Suite Marketplace`_ and search for **Skribble â€“ Electronic Signature** or click `here`_ to download it directly
+  
   .. _G Suite Marketplace: https://gsuite.google.com/marketplace
     
   .. _here: https://gsuite.google.com/marketplace
