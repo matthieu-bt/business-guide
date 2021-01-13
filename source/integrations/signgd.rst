@@ -1,13 +1,17 @@
 .. _signgd:
 
-===========================================
-Signing a document from within Google Drive
-===========================================
+=========================================================
+Signing from within Google Drive, OneDrive and SharePoint
+=========================================================
 
 .. NOTE::
-  Before you can sign documents directly from Google Drive, your Google Drive admin has to connect it with Skribble Business. If you don’t see **Skribble – Electronic Signature** after right-clicking on the document you want to sign, please get in touch with the admin.
+  Before you can sign documents directly from Google Drive, OneDrive or SharePoint, the admin of your company will have to connect them with Skribble Business.
+
+If you don’t see **Skribble – Electronic Signature** after right-clicking on the document you want to sign, please get in touch with the admin of the document management tool used in your company.
   
-To sign the document from Google Drive:
+To sign the document:
+
+- Go to **Google Drive, OneDrive or SharePoint** (depends on which one is used in your company)
 
 - **Right-click** on the document that you want to sign
 
