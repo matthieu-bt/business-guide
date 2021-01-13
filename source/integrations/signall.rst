@@ -11,7 +11,7 @@ If you don’t see **Skribble – Electronic Signature** after right-clicking on
   
 To sign the document:
 
-- Go to **Google Drive, OneDrive or SharePoint** (depends on which one your comapany uses)
+- Go to **Google Drive, OneDrive or SharePoint**
 
 - **Right-click** on the document that you want to sign
 
