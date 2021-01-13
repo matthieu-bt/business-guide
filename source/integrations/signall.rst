@@ -1,4 +1,4 @@
-.. _signgd:
+.. _signall:
 
 =========================================================
 Signing from within Google Drive, OneDrive and SharePoint
