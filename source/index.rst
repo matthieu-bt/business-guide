@@ -66,5 +66,5 @@ This guide is intended to help company administrators set up and manage Skribble
    :caption: Integrations:
 
    integrations/google
-   integrations/signall
+   integrations/signgoogle
    
