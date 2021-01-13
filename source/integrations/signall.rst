@@ -15,9 +15,12 @@ To sign the document:
 
 - **Right-click** on the document that you want to sign
 
-- Click **Open with** (you’ll see Skribble as an option)
+- Click **Open with** 
 
-- Select **Skribble – Electronic Signature** from the list
+- Select **Skribble – Electronic Signature** from the list and follow the instructions
+
+.. NOTE::
+  **Microsoft OneDrive** users might need to finish the setup and allow access to their Microsoft account before they can sign.
 
 - **Log in** with your **Skribble account** and sign the document or invite others to sign the usual way
 
