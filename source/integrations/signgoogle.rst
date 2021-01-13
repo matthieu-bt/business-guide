@@ -9,15 +9,13 @@ Signing documents from Google Drive
 
 If you don't see **Skribble – Electronic Signature** as an option after right-clicking on the document you want to sign, please get in touch with your Google Drive admin.
 
-To sign the document from Google Drive:
+To sign from Google Drive:
 
 - Go to `https://drive.google.com/drive`_
 
 .. _https://drive.google.com/drive: https://drive.google.com/drive
 
 If you're not logged in yet, please make sure to log in with the same e-mail address you use to log in to your Skribble account.
-
-- Go to **Google Drive, OneDrive or SharePoint**
 
 - **Right-click** on the document you want to sign
 
