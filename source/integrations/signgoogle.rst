@@ -2,7 +2,7 @@
 
 ===================================
 Signing documents from Google Drive
-====================================
+===================================
 
 .. NOTE::
   Before you can sign documents from within Google Drive, your Google Drive admin will have to connect it with your company's Skribble Business.
