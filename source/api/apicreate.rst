@@ -10,7 +10,7 @@ As a Skribble Business admin, you can generate and manage API keys for your comp
 
 For more information on using API keys, please visit our `API documentation`_.
 
-  .. _API documentation: https://developers.skribble.com/api/
+  .. _API documentation: https://api-doc.skribble.com/
   
   
 Creating an API key
