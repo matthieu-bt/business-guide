@@ -19,10 +19,33 @@ If you're not logged in yet, please make sure to log in with the same e-mail add
 
 - **Right-click** on the document you want to sign
 
-- Click **Open with** 
 
-- Select **Skribble – Electronic Signature** from the list
+.. image:: 1_right_click.png
+    :alt: pointer to menu button
+    :class: with-shadow
+    
 
-- **Log in** with your **Skribble account** and sign the document or invite others to sign as usual
+- Click **Open with** and select **Skribble – Electronic Signature** from the list
 
-Signed documents will be saved automatically in the same folder from which you originally opened them (unless defined otherwise by your Google Drive admin).
+
+.. image:: 2_open_with_skribble.png
+    :alt: pointer to menu button
+    :class: with-shadow
+    
+
+- **Log in** with your **Skribble account** and sign the document or invite others to sign the usual way
+
+
+.. image:: 3_log_in.png
+    :alt: pointer to menu button
+    :class: with-shadow
+    
+    
+- Signed documents will be saved automatically in the same folder from which you originally opened them (unless defined otherwise by your Google Drive admin)
+
+
+.. image:: 7_signed_document_folder.png
+    :alt: pointer to menu button
+    :class: with-shadow
+    
+    
