@@ -68,5 +68,5 @@ Google Drive admins will need Skribble API credentials (username and API key) to
   
 Everyone in your company can now sign and invite others to sign directly from Google Drive. We recommend that you inform them about it. Here’s a `quick guide`_ if they need a hand with signing from Google Drive.
 
-  .. _quick guide: https://docs.skribble.com/business-admin/
+  .. _quick guide: http://docs.skribble.com/business-admin/integrations/signgoogle.html
   
