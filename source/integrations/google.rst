@@ -8,8 +8,7 @@ Skribble integrates easily with Google Drive and enables companies, departments,
 
 .. NOTE::
  If you haven't set up Skribble Business for your company yet, you can do so on my.skribble.com. `Here’s how it works`_
- 
-  .. _Here’s how it works: https://docs.skribble.com/business-admin/quickstart/upgrade.html
+ .. _Here’s how it works: https://docs.skribble.com/business-admin/quickstart/upgrade.html
 
 To connect Google Drive with Skribble, you’ll need:
 
@@ -25,7 +24,7 @@ We recommend that the Google Drive admin does the setup of the **Skribble – El
 .. NOTE::
  Before you get started, make sure you have your Skribble API credentials ready.
 
-You can get these from the person in charge of Skribble Business in your company. Skribble Business admins: w`click here for guidance`_.
+You can get these from the person in charge of Skribble Business in your company. Skribble Business admins: `click here for guidance`_.
 
   .. _click here for guidance: https://docs.skribble.com/business-admin/api/apicreate.html
 
