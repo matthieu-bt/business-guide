@@ -28,7 +28,7 @@ To update your credit card information:
 - Navigate to **Payment method**
 
 
-.. image:: step_3_payment_method.png
+.. image:: step_3_payment_method2.png
     :class: with-shadow
     
 
