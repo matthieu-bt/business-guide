@@ -41,7 +41,7 @@ If you're not logged in yet, please make sure to log in with the same e-mail add
     :class: with-shadow
     
     
-- Signed documents will be saved automatically in the same folder from which you originally opened them (unless defined otherwise by your Google Drive admin)
+- The signed document will be automatically saved next to the original document in Google Drive (unless defined otherwise by your Google Drive admin)
 
 
 .. image:: 7_signed_document_folder.png
