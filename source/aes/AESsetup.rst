@@ -39,7 +39,7 @@ Here you will find basic information about the setup process.
 
 - Click **Start registration**
 
-.. image:: aes_register.png
+.. image:: aes_register2.png
     :class: with-shadow
 
 You will be taken to a form to provide information necessary to register for AES for Business. Once the form is submitted, the AES for Business registration has been initialized.
