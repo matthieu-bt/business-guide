@@ -53,7 +53,7 @@ To cancel your free trial:
 - Click **Cancel free trial**
 
 
-  .. image:: step_3_cancel_trial2.png
+  .. image:: step3_cancel_trial2.png
     :class: with-shadow
     
     
