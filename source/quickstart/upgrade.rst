@@ -31,7 +31,7 @@ On the next page, you’ll see the details of the price plans available at Skrib
 - Navigate to **Skribble Business** and click **Test for free**
 
 
-.. image:: step2_setup_biz_trial.png
+.. image:: step2_setup_biz_trial2.png
     :class: with-shadow
 
 
@@ -54,7 +54,7 @@ If you accept the terms, click the box next to "I agree to the General Terms and
 - Choose your preferred billing period and click **Next**
 
 
-.. image:: step_3_start_trial.png
+.. image:: step_3_start_trial2.png
     :class: with-shadow
     
 
