@@ -44,7 +44,7 @@ To cancel your free trial:
 - Navigate to **Current plan** and click the **pencil** icon
 
 
-  .. image:: step_2_pencil.png
+  .. image:: step_2_pencil2.png
     :class: with-shadow
     
     
@@ -53,7 +53,7 @@ To cancel your free trial:
 - Click **Cancel free trial**
 
 
-  .. image:: step_3_cancel_trial.png
+  .. image:: step_3_cancel_trial2.png
     :class: with-shadow
     
     
@@ -61,7 +61,7 @@ To cancel your free trial:
 - Click **Yes, cancel free trial** to confirm that you really want to cancel the trial and delete Skribble Business
   
   
-  .. image:: step_4_confirm_cancel.png
+  .. image:: step_4_confirm_cancel2.png
     :class: with-shadow
   
   
