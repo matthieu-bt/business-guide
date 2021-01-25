@@ -9,7 +9,7 @@ Signing documents from Google Drive
 
 If you don't see **Skribble – Electronic Signature** as an option after right-clicking on the document you want to sign, please get in touch with your Google Drive admin.
 
-To sign from Google Drive:
+To sign a document from Google Drive:
 
 - Go to `https://drive.google.com/drive`_
 
@@ -41,11 +41,16 @@ If you're not logged in yet, please make sure to log in with the same e-mail add
     :class: with-shadow
     
     
-- After all invited parties have signed the document it will automatically be saved in your Google Drive next to the original document
+- After all invited parties have signed the document, it will automatically be saved next to the original document in your Google Drive
 
 
 .. image:: 7_signed_document_folder.png
     :alt: pointer to menu button
     :class: with-shadow
     
+    
+Do you prefer video tutorials? Then have a look `here`_.
+
+.. _here: https://youtu.be/zKqAU9ke46I
+
     
