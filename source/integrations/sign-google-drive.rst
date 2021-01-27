@@ -1,4 +1,4 @@
-.. _signgoogle:
+.. _sign-google-drive:
 
 ===================================
 Signing documents from Google Drive
