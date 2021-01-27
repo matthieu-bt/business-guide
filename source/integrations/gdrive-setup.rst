@@ -1,4 +1,4 @@
-.. _google:
+.. _gdrive-setup:
 
 ==================================================
 Setting up signing with Skribble from Google Drive
