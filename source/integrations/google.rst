@@ -29,16 +29,15 @@ You can get these from the person in charge of Skribble Business in your company
 
   .. _click here for guidance: https://docs.skribble.com/business-admin/api/apicreate.html
 
-- Go to `G Suite Marketplace`_ and search for **Skribble – Electronic Signature** or click `here`_ to download the plug-in directly
+- Go to `G Suite Marketplace`_ and search for **Skribble – Electronic Signature**
   
   .. _G Suite Marketplace: https://gsuite.google.com/marketplace
-  .. _here: https://gsuite.google.com/marketplace
   
 - Click **Domain install**
   
 - Carefully read the information displayed, accept the terms of service and privacy policy if you agree with them and click **Continue**
   
-- You’ll be asked to allow access to complete the installation
+- You’ll be asked to allow access to complete installation
 
 - Click **Allow** if you agree
   
@@ -64,9 +63,9 @@ Google Drive admins will need Skribble API credentials (username and API key) to
   
 - Enter **Skribble API credentials** (username and API key)
   
-- That’s it – you’ve successfully connected Google Drive with Skribble
+- That’s it! You’ve successfully connected Google Drive with Skribble
   
 Everyone in your company can now sign and invite others to sign directly from Google Drive. We recommend that you inform them about it. Here’s a `quick guide`_ if they need a hand with signing from Google Drive.
 
-  .. _quick guide: http://docs.skribble.com/business-admin/integrations/signgoogle.html
+  .. _quick guide: http://docs.skribble.com/business-admin/integrations/sign-google-drive
   
