@@ -5,7 +5,7 @@ Setting up signing with Skribble from Google Drive
 ==================================================
 
 .. NOTE::
- This is a beta feature that is only available to Skribble Business customers. 
+ This is a beta feature available to a limited group of Skribble Business customers.
 
 Skribble integrates easily with Google Drive and enables companies, departments, and teams to sign and get documents signed electronically directly from their favourite tools.
 
