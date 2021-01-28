@@ -57,6 +57,8 @@ html_css_files = [
 
 html_logo = "logo-skribble.svg"
 
+html_favicon = "favicon.ico"
+
 html_context = {
   'display_github': True,
   'github_user': 'blocksigner',
