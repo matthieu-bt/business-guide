@@ -5,7 +5,7 @@ Signing documents from Google Drive
 ===================================
 
 .. NOTE::
-  This is a beta feature that is only available to Skribble Business customers.
+  This is a beta feature available to a limited group of Skribble Business customers.
   
 Once your Google Drive admin connects your company's Skribble Business with Google Drive, you'll be able to sign with Skribble directly from your Google Drive Web App (not the local version on your computer).
 
