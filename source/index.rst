@@ -59,3 +59,12 @@ This guide is intended to help company administrators set up and manage Skribble
    :caption: Managing API Keys:
 
    api/apicreate
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Integrations:
+
+   integrations/google
+   integrations/sign-google-drive
+   
