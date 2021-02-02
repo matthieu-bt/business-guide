@@ -67,4 +67,6 @@ This guide is intended to help company administrators set up and manage Skribble
 
    integrations/google
    integrations/sign-google-drive
+   integrations/microsoft
+   integrations/sign-onedrive-sharepoint
    
