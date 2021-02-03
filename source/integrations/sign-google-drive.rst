@@ -27,9 +27,9 @@ If you're not logged in yet, please make sure to log in with the same e-mail add
     :class: with-shadow
     
 
-- Click **Open with** and select **Skribble – Electronic Signature** from the list
+- Click **Open with** and select **Skribble Electronic Signature** from the list
 
-If you don't see Skribble – Electronic Signature after right-clicking on the document, please get in touch with your Google Drive admin.
+If you don't see Skribble Electronic Signature after right-clicking on the document, please get in touch with your Google Drive admin.
 
 
 .. image:: 2_open_with_skribble.png
